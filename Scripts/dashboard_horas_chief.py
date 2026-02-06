@@ -91,13 +91,29 @@ def get_averages_and_totals(df):
     df_valid['Duration(h)'] = df_valid['Duration(s)']/3600
     df_valid['Start_Time'] = df_valid['Start_Time'].dt.date
 
-    averages = df_valid.groupby('Start_Time')['Duration(h)'].mean()
+    avgs = df_valid.groupby('Start_Time')['Duration(h)'].mean()
 
-    for date in averages.index:
-        
+    means = []
+    avgs = df_valid.groupby('Start_Time')['Duration(h)'].mean()
 
-
-
+    means = []
+    for date in avgs.index:
+        date_totals = []
+        for operator in df_valid['Operator'].unique():
+            tmp = df_valid[df_valid['Operator']==operator]
+            op_dates = tmp['Start_Time'].unique()
+            if date in op_dates:
+                vals = tmp.groupby('Start_Time')['Duration(h)'].sum()
+                date_totals.append(vals.loc[date])
+        day_mean = np.array(date_totals).mean()
+        means.append(day_mean)
+            
+    averages = pd.DataFrame(
+            index= avgs.index,
+            columns=['Duration(h)'],
+            data=means
+        )
+    
     totals = df_valid.groupby('Start_Time')['Duration(h)'].sum()
 
     return (averages,totals)
