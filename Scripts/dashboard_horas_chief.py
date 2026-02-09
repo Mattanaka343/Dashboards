@@ -8,7 +8,7 @@ st.set_page_config(
     layout = 'wide'
 )
 
-@st.cache_data
+@st.cache_data(ttl=7200)
 def load_and_clean():
     try:
         data = pd.read_csv('../Data/reporte_detallado.csv')
@@ -173,10 +173,12 @@ if data is not None:
 
         with col3:
             st.header('Daily Averages')
+            st.markdown('How much data was collected per operator per day on average')
             st.dataframe(d_info[0])
         
         with col4:
             st.header('Daily Totals')
+            st.markdown('Total hours collected by all operators on a given date')
             st.dataframe(d_info[1])
 
     else:
