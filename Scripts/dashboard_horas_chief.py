@@ -18,7 +18,7 @@ def load_and_clean():
         data['Start_Time'] = pd.to_datetime(data['Start_Time'])
         return data
     except Exception as e:
-        st.error(f'Error al cargar los datos: {e}')
+        st.error(f'Error while loading data: {e}')
         return None
     
 def weekly_data(df):
