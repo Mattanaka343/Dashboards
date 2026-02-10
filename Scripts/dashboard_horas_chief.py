@@ -33,12 +33,27 @@ def daily_data(df):
     day_db = df[df['Start_Time'].dt.date == cutoff]
     return day_db
 
+def yester_data(df):
+    cutoff = (pd.Timestamp.today() - pd.Timedelta(days=1)).date()
+    df['Start_Time'] = pd.to_datetime(df['Start_Time'])
+    yester_df = df[df['Start_Time'].dt.date >= cutoff]
+    return yester_df
+
+def monthly_data(df):
+    pass
+
 def graphs(df):
     fig1  = px.histogram(
         df,
         x = 'Duration(s)',
         nbins = 30,
         title = 'Recording Duration Distribution'
+    )
+    mean_duration = df['Duration(s)'].mean()
+    fig1.add_vline(
+        x = mean_duration,
+        line_dash = 'dot',
+        line_color = 'red'
     )
 
     fig2 = px.pie(
@@ -54,7 +69,11 @@ def graphs(df):
         df_bar1,
         x = 'Duration(h)',
         y = 'SkillName',
-        title = 'Valid Hours Collected per Skill'
+        title = 'Valid Hours Collected per Skill',
+        labels = {
+            'x':'Hours Collected',
+            'y':'Skill Name'
+        }
     )
 
     fig3.add_vline(
@@ -69,12 +88,30 @@ def graphs(df):
         df_bar2,
         x = 'Duration(h)',
         y = 'Operator',
-        title = 'Valid Hours Collected Per Operator'
+        title = 'Valid Hours Collected Per Operator',
+        labels = {
+            'x':'Hours Collected',
+            'y': 'Operator'
+        }
+    )
+
+    df_valid['Start_Time'] = df_valid['Start_Time'].dt.date
+    df_timeline = df_valid.groupby('Start_Time', as_index = False)['Duration(h)'].sum()
+
+    fig5 = px.line(
+        df_timeline,
+        x = 'Start_Time',
+        y = 'Duration(h)',
+        title = 'Timeline of hours collected',
+        labels = {
+            'x': 'Date',
+            'y': 'Hours Collected'
+        }
     )
 
     
 
-    return (fig1,fig2,fig3, fig4)
+    return (fig1,fig2,fig3,fig4,fig5)
 
 def key_figures(df):
     total_hour_amount = df['Duration(s)'].sum()/3600
@@ -171,21 +208,26 @@ if data is not None:
 
         d_info = get_averages_and_totals(data)
 
-        with col3:
-            st.header('Daily Averages')
-            st.markdown('How much data was collected per operator per day on average')
-            st.dataframe(d_info[0])
-        
-        with col4:
-            st.header('Daily Totals')
-            st.markdown('Total hours collected by all operators on a given date')
-            st.dataframe(d_info[1])
+        if form != 'Daily':
+            with col3:
+                st.header('Daily Averages')
+                st.markdown('How much data was collected per operator per day on average')
+                st.dataframe(d_info[0])
+            
+            with col4:
+                st.header('Daily Totals')
+                st.markdown('Total hours collected by all operators on a given date')
+                st.dataframe(d_info[1])
+            
+            st.plotly_chart(figures[4])
 
     else:
         st.header('Welcome')
         st.markdown("""
         Welcome to the KPI dashboard. Select a timeframe to view and click launch!
                     """)
+        
+
 
 
 

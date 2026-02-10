@@ -24,9 +24,28 @@ def load():
 def AsusTabla(df):
     df_valid = df[df['IsValid']==True]
     df_valid['Duration(h)'] = df_valid['Duration(s)']/3600
-    df_bar = 
+    df_bar = df_valid.groupby('Operator', as_index = False)['Duration(h)'].sum()
+    df_bar.sort_values('Duration(h)',ascending = False)
 
+    fig = px.bar(
+        df_bar,
+        x = 'Duration(h)',
+        y = 'Operator',
+        title = 'Horas Recolectadas'
+    )
 
-    pass
+    fig.add_vline(
+        x = 5.5,
+        line_dash = 'dot',
+        line_color = 'red'
+    )
+    
+    return fig
+
+data = load()
+fig = AsusTabla(data)
+st.header('Horas Recolectadas Hoy')
+st.markdown('---')
+st.plotly_chart(fig)
 
         
