@@ -8,14 +8,18 @@ st.set_page_config(
     layout = 'wide'
 )
 
-@st.cache_data(ttl=7200)
+@st.cache_data(ttl=100)
 def load_and_clean():
     try:
-        data = pd.read_csv('../Data/reporte_detallado.csv')
+        data = pd.read_csv('../Data/general_data.csv')
         data['Operator'] = data['Operator'].str.replace(' ','')
         data['Operator'] = data['Operator'].str.replace('H_ALCARAZ','L_AGUILERA')
         data = data[data['Operator'] != 'JUAN']
         data['Start_Time'] = pd.to_datetime(data['Start_Time'])
+        data['IsValid'] = data['IsValid'].replace({'TRUE':'True',
+                                                       'FALSE':'False',
+                                                       'UNKNOWN':'False'})
+        data['IsValid'] = data['IsValid'].map({'True':True, 'False':False})
         return data
     except Exception as e:
         st.error(f'Error while loading data: {e}')
@@ -49,7 +53,9 @@ def graphs(df):
         nbins = 30,
         title = 'Recording Duration Distribution'
     )
+
     mean_duration = df['Duration(s)'].mean()
+
     fig1.add_vline(
         x = mean_duration,
         line_dash = 'dot',
@@ -61,6 +67,8 @@ def graphs(df):
         names = 'SkillName',
         title = 'Skill Distribution'
     )
+
+
     df_valid = df[df['IsValid']==True]
     df_valid['Duration(h)'] = df_valid['Duration(s)']/3600
     df_bar1 = df_valid.groupby('SkillName',as_index=False)["Duration(h)"].sum()
