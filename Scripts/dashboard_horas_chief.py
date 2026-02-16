@@ -14,12 +14,14 @@ def load_and_clean():
         data = pd.read_csv('../Data/general_data.csv')
         data['Operator'] = data['Operator'].str.replace(' ','')
         data['Operator'] = data['Operator'].str.replace('H_ALCARAZ','L_AGUILERA')
-        data = data[data['Operator'] != 'JUAN']
+        data['Operator'] = [val.lower() for val in data['Operator']]
+        data = data[data['Operator'] != 'juan']
         data['Start_Time'] = pd.to_datetime(data['Start_Time'])
         data['IsValid'] = data['IsValid'].replace({'TRUE':'True',
                                                        'FALSE':'False',
                                                        'UNKNOWN':'False'})
         data['IsValid'] = data['IsValid'].map({'True':True, 'False':False})
+        data = data.drop_duplicates()
         return data
     except Exception as e:
         st.error(f'Error while loading data: {e}')
