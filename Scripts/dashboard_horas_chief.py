@@ -17,10 +17,6 @@ def load_and_clean():
         data['Operator'] = [val.lower() for val in data['Operator']]
         data = data[data['Operator'] != 'juan']
         data['Start_Time'] = pd.to_datetime(data['Start_Time'])
-        data['IsValid'] = data['IsValid'].replace({'TRUE':'True',
-                                                       'FALSE':'False',
-                                                       'UNKNOWN':'False'})
-        data['IsValid'] = data['IsValid'].map({'True':True, 'False':False})
         data = data.drop_duplicates()
         return data
     except Exception as e:
@@ -179,7 +175,7 @@ if data is not None:
             options = ['All Time','Weekly','Daily'],
             index = 0
         )
-
+    
         bot  = st.button(
             'Launch',
             use_container_width = True,
