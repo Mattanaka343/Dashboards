@@ -26,5 +26,12 @@ data = [df[columns_to_extract] for df in data]
 
 final = pd.concat(data).drop_duplicates()
 
+for idx in range(final.shape[0]):
+    entry = final.iloc[idx]
+    if isinstance(entry['FailReason'], str) and 'TOO_SHORT' in entry['FailReason']:
+        final.loc[idx,'IsValid'] = False
+    else:
+        final.loc[idx,'IsValid'] = True
+
 final.to_csv('../Data/general_data.csv',index=False)
 

@@ -2,10 +2,16 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 import plotly.express as px
+import plotly.io as pio
+
+
+pio.templates.default = "plotly_dark"
+
 
 st.set_page_config(
     page_title = 'Dashboard Horas',
-    layout = 'wide'
+    layout = 'wide',
+    page_icon = '../Resources/Images/NSym.png'
 )
 
 @st.cache_data(ttl=100)
@@ -14,7 +20,7 @@ def load_and_clean():
         data = pd.read_csv('../Data/general_data.csv')
         data['Operator'] = data['Operator'].str.replace(' ','')
         data['Operator'] = data['Operator'].str.replace('H_ALCARAZ','L_AGUILERA')
-        data['Operator'] = [val.lower() for val in data['Operator']]
+        data['Operator'] = [val.lower() if isinstance(val,str) else 'unknown' for val in data['Operator']]
         data = data[data['Operator'] != 'juan']
         data['Start_Time'] = pd.to_datetime(data['Start_Time'])
         data = data.drop_duplicates()
@@ -42,7 +48,23 @@ def yester_data(df):
     return yester_df
 
 def monthly_data(df):
-    pass
+    month = pd.Timestamp.today().month
+    df['Start_Time'] = pd.to_datetime(df['Start_Time'])
+    month_df = df[df['Start_Time'].dt.month == month]
+    return month_df
+
+def by_operator(df,operator):
+    if operator is not None:
+        return df[df['Operator']==operator]
+    else:
+        return df
+
+def by_skill(df,skill):
+    if skill is not None:
+        return df[df['SkillName'] == skill]
+    else:
+        return df
+
 
 def graphs(df):
     fig1  = px.histogram(
@@ -103,17 +125,22 @@ def graphs(df):
 
     df_valid['Start_Time'] = df_valid['Start_Time'].dt.date
     df_timeline = df_valid.groupby('Start_Time', as_index = False)['Duration(h)'].sum()
-
+    df_timeline['trend'] = df_timeline["Duration(h)"].rolling(window=20, min_periods=1).mean()
+    df_timeline = df_timeline.rename(columns={
+    "Duration(h)": "Real Amount",
+    "trend": "Projected Amount"
+})
+    
     fig5 = px.line(
         df_timeline,
         x = 'Start_Time',
-        y = 'Duration(h)',
-        title = 'Timeline of hours collected',
-        labels = {
-            'x': 'Date',
-            'y': 'Hours Collected'
-        }
+        y = ['Real Amount','Projected Amount'],
+        title = 'Timeline of valid hours collected',
     )
+
+    fig5.update_yaxes(title_text="Hours Collected")
+    fig5.update_xaxes(title_text="Date")
+    fig5.update_layout(legend_title_text="Metric Type")
 
     
 
@@ -171,10 +198,27 @@ if data is not None:
         st.header('Define the period')
 
         form = st.selectbox(
-            'Timeframe',
-            options = ['All Time','Weekly','Daily'],
+            'Select a timeframe',
+            options = ['All Time','Weekly','Daily','Monthly','Yesterday'],
             index = 0
         )
+
+        with st.expander('Further Options'):
+            opes = list(data['Operator'].unique())
+            opes.insert(0,'All')
+            ope = st.selectbox(
+                'Select an operator',
+                options = opes,
+                index = 0
+            )
+            
+            skills = list(data['SkillName'].unique())
+            skills.insert(0,'All')
+            skill = st.selectbox(
+                'Select a skill',
+                options = skills,
+                index = 0
+            )
     
         bot  = st.button(
             'Launch',
@@ -194,27 +238,38 @@ if data is not None:
     if bot:
         if form == 'Weekly':
             data = weekly_data(data)
-        elif form == 'Daily':
+        elif form == 'Today':
             data = daily_data(data)
+        elif form == 'Monthly':
+            data = monthly_data(data)
+        elif form == 'Yesterday':
+            data = yester_data(data)
 
+        if ope != 'All':
+            data = by_operator(data,ope)
+
+        if skill != 'All':
+            data = by_skill(data,skill)
+            
         figures = graphs(data)
 
         st.plotly_chart(figures[0])
+        if skill == 'All':
+            col1, col2 = st.columns(2)
 
-        col1, col2 = st.columns(2)
-
-        with col1:
-            st.plotly_chart(figures[1])
-        with col2:
-            st.plotly_chart(figures[2])
-
-        st.plotly_chart(figures[3])
+            with col1:
+                st.plotly_chart(figures[1])
+            with col2:
+                st.plotly_chart(figures[2])
+        
+        if ope == 'All':
+            st.plotly_chart(figures[3])
 
         col3, col4 = st.columns(2)
 
         d_info = get_averages_and_totals(data)
 
-        if form != 'Daily':
+        if form in ['Monthly','All Time','Weekly']:
             with col3:
                 st.header('Daily Averages')
                 st.markdown('How much data was collected per operator per day on average')
