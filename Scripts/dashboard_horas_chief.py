@@ -4,9 +4,7 @@ import numpy as np
 import plotly.express as px
 import plotly.io as pio
 
-
 pio.templates.default = "plotly_dark"
-
 
 st.set_page_config(
     page_title = 'Dashboard Horas',
@@ -92,6 +90,7 @@ def graphs(df):
     df_valid = df[df['IsValid']==True]
     df_valid['Duration(h)'] = df_valid['Duration(s)']/3600
     df_bar1 = df_valid.groupby('SkillName',as_index=False)["Duration(h)"].sum()
+    df_bar1 = df_bar1.sort_values(by ='Duration(h)',ascending=True)
 
     fig3 = px.bar(
         df_bar1,
@@ -111,6 +110,7 @@ def graphs(df):
     )
 
     df_bar2 = df_valid.groupby('Operator',as_index=False)["Duration(h)"].sum()
+    df_bar2 = df_bar2.sort_values(by = 'Duration(h)')
 
     fig4 = px.bar(
         df_bar2,
@@ -255,12 +255,7 @@ if data is not None:
 
         st.plotly_chart(figures[0])
         if skill == 'All':
-            col1, col2 = st.columns(2)
-
-            with col1:
-                st.plotly_chart(figures[1])
-            with col2:
-                st.plotly_chart(figures[2])
+            st.plotly_chart(figures[2])
         
         if ope == 'All':
             st.plotly_chart(figures[3])
