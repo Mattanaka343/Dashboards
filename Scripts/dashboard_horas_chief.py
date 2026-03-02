@@ -45,8 +45,7 @@ def yester_data(df):
     yester_df = df[df['Start_Time'].dt.date >= cutoff]
     return yester_df
 
-def monthly_data(df):
-    month = pd.Timestamp.today().month
+def monthly_data(df,month=pd.Timestamp.today().month ):
     df['Start_Time'] = pd.to_datetime(df['Start_Time'])
     month_df = df[df['Start_Time'].dt.month == month]
     return month_df
@@ -219,6 +218,15 @@ if data is not None:
                 options = skills,
                 index = 0
             )
+
+            if form == 'Monthly':
+                idx = int(pd.Timestamp.today().month) -1
+
+                month = st.selectbox(
+                    'Select a month',
+                    options = [i for i in range(1,13)],
+                    index = idx
+                )
     
         bot  = st.button(
             'Launch',
@@ -241,7 +249,7 @@ if data is not None:
         elif form == 'Today':
             data = daily_data(data)
         elif form == 'Monthly':
-            data = monthly_data(data)
+            data = monthly_data(data,month)
         elif form == 'Yesterday':
             data = yester_data(data)
 
