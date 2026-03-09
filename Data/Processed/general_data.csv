@@ -9706,3 +9706,376 @@ Duration(s),StartTime,Operator,IsValid,FailReason,Station,SkillName
 597.183065824,2026-03-06T08:35:16.372Z,d_lopez,True,,3,Fold towels
 2.13083763,2026-03-06T08:50:10.304Z,n_mora,False,TOO_SHORT (2.1s < 90.0s) | BAD_HZ /gripper_l/data (94.8/120.0),2,Put pasta in plastic containers
 198.410067318,2026-03-06T08:46:37.599Z,d_lopez,True,,3,Build Up Box (Mailer)
+119.631665392,2026-03-06T08:51:58.079Z,n_mora,True,,2,Put pasta in plastic containers
+102.788805039,2026-03-06T08:56:08.635Z,n_mora,True,,2,Put pasta in plastic containers
+652.179959396,2026-03-06T08:51:47.140Z,d_lopez,True,,3,Package a sewing set
+409.314242202,2026-03-06T09:05:12.993Z,c_becerra,True,,3,Put pasta in ziploc bags
+298.235633461,2026-03-06T09:07:42.213Z,d_vargas,True,,4,Transfer powder using a spoon
+301.960138739,2026-03-06T09:13:00.752Z,c_becerra,True,,3,Fold a shirt
+271.664745637,2026-03-06T09:14:02.872Z,d_vargas,True,,4,Transfer powder using a spoon
+88.978287378,2026-03-06T09:18:23.262Z,c_becerra,False,TOO_SHORT (89.0s < 90.0s),3,Built up box (Present)
+52.765235848,2026-03-06T09:19:31.157Z,d_vargas,False,TOO_SHORT (52.8s < 90.0s),4,Transfer powder using a spoon
+85.301616837,2026-03-06T09:20:12.262Z,c_becerra,False,TOO_SHORT (85.3s < 90.0s),3,Built up box (Present)
+63.296343531,2026-03-06T09:21:40.701Z,d_vargas,False,TOO_SHORT (63.3s < 90.0s),4,Clean glasses and insert them in Ziploc bags along with a moist wipe
+82.448811176,2026-03-06T09:22:07.281Z,c_becerra,False,TOO_SHORT (82.4s < 90.0s),3,Built up box (Present)
+253.054881492,2026-03-06T09:23:24.342Z,d_vargas,True,,4,Clean glasses and insert them in Ziploc bags along with a moist wipe
+18.708463454,2026-03-06T09:28:47.764Z,d_vargas,False,TOO_SHORT (18.7s < 90.0s) | BAD_HZ /gripper_l/data (85.7/120.0),4,Clean glasses and insert them in Ziploc bags along with a moist wipe
+247.475265649,2026-03-06T09:25:08.012Z,c_becerra,True,,3,Put hooks on shower courtain
+103.820608602,2026-03-06T09:29:30.356Z,d_vargas,True,,4,Clean glasses and insert them in Ziploc bags along with a moist wipe
+50.276877061,2026-03-06T09:31:41.535Z,d_vargas,False,TOO_SHORT (50.3s < 90.0s),4,Place cotton inside a crystal tube
+158.089943587,2026-03-06T09:31:07.833Z,c_becerra,True,,3,Put hooks on shower courtain
+209.385659474,2026-03-06T09:32:46.880Z,d_vargas,True,,4,Place cotton inside a crystal tube
+203.172546845,2026-03-06T09:36:47.274Z,d_vargas,True,,4,Place cotton inside a crystal tube
+352.463622643,2026-03-06T09:34:54.125Z,c_becerra,True,,3,Package a sewing set
+261.22577016,2026-03-06T09:41:36.100Z,c_becerra,True,,3,Package a sewing set
+164.416965114,2026-03-06T09:46:55.295Z,c_becerra,True,,3,Package a sewing set
+497.941594559,2026-03-06T09:41:41.374Z,d_vargas,True,,4,Button a shirt
+136.380803963,2026-03-06T09:51:38.236Z,d_vargas,True,,4,Put crystal tubes on their holder and stuff them with colored sticks
+258.911391644,2026-03-06T09:51:19.371Z,c_becerra,True,,3,Build Up Box (Mailer)
+139.480431763,2026-03-06T09:54:14.306Z,d_vargas,True,,4,Put crystal tubes on their holder and stuff them with colored sticks
+226.544665022,2026-03-06T09:56:21.153Z,c_becerra,True,,3,Build Up Box (Mailer)
+204.475554722,2026-03-06T09:56:55.408Z,d_vargas,True,,4,Put crystal tubes on their holder and stuff them with colored sticks
+87.206530805,2026-03-06T10:11:43.705Z,l_aguilera,False,TOO_SHORT (87.2s < 90.0s),1,Put crystal tubes on their holder and stuff them with colored sticks
+203.11036558,2026-03-06T10:10:46.516Z,e_cabezas,True,,2,Put pasta in plastic containers
+75.329448635,2026-03-06T10:13:47.258Z,l_aguilera,False,TOO_SHORT (75.3s < 90.0s),1,Put crystal tubes on their holder and stuff them with colored sticks
+296.168517729,2026-03-06T10:10:32.993Z,e_martinez,True,,4,Place cotton inside a crystal tube
+93.195809436,2026-03-06T10:15:39.459Z,l_aguilera,True,,1,Put crystal tubes on their holder and stuff them with colored sticks
+447.484628303,2026-03-06T10:09:39.702Z,p_alvarez,True,,3,Package a sewing set
+73.54944923,2026-03-06T10:17:47.300Z,l_aguilera,False,TOO_SHORT (73.5s < 90.0s),1,Put crystal tubes on their holder and stuff them with colored sticks
+264.452655135,2026-03-06T10:16:59.764Z,e_martinez,True,,4,Place cotton inside a crystal tube
+155.179638838,2026-03-06T10:21:04.291Z,l_aguilera,True,,1,Put pasta in plastic containers
+392.028794024,2026-03-06T10:17:49.531Z,p_alvarez,True,,3,Put pasta in ziploc bags
+139.518306313,2026-03-06T10:23:04.010Z,e_martinez,True,,4,Put crystal tubes on their holder and stuff them with colored sticks
+148.775456268,2026-03-06T10:24:35.139Z,l_aguilera,True,,1,Put pasta in plastic containers
+139.187351971,2026-03-06T10:25:53.674Z,e_martinez,True,,4,Put crystal tubes on their holder and stuff them with colored sticks
+104.279163064,2026-03-06T10:27:58.073Z,l_aguilera,True,,1,Put pasta in plastic containers
+264.116593458,2026-03-06T10:26:57.164Z,p_alvarez,True,,3,Thread a needle
+135.173115298,2026-03-06T10:29:24.260Z,e_martinez,True,,4,Put crystal tubes on their holder and stuff them with colored sticks
+147.423558446,2026-03-06T10:32:53.943Z,e_martinez,True,,4,Put crystal tubes on their holder and stuff them with colored sticks
+368.013463431,2026-03-06T10:32:07.400Z,p_alvarez,True,,3,Put hooks on shower courtain
+263.552263122,2026-03-06T10:36:46.108Z,e_martinez,True,,4,Tie Shoelaces
+212.31139419,2026-03-06T10:41:46.574Z,e_martinez,True,,4,Tie Shoelaces
+465.637114677,2026-03-06T10:39:43.560Z,p_alvarez,True,,3,Package a sewing set
+177.054239116,2026-03-06T10:46:59.587Z,e_martinez,True,,4,Put pasta in jars
+115.150111381,2026-03-06T10:48:12.096Z,p_alvarez,True,,3,Build Up Box (Mailer)
+458.324985475,2026-03-06T10:42:15.889Z,l_aguilera,True,,1,Transfer liquid using a funnel
+180.048473794,2026-03-06T10:51:37.342Z,e_martinez,True,,4,Put pasta in jars
+279.345619935,2026-03-06T10:50:42.282Z,p_alvarez,True,,3,Build Up Box (Mailer)
+69.6627538,2026-03-06T10:56:56.597Z,l_aguilera,False,TOO_SHORT (69.7s < 90.0s),1,Put crystal tubes on their holder and stuff them with colored sticks
+190.604975668,2026-03-06T10:55:22.744Z,e_martinez,True,,4,Put pasta in jars
+155.8692835,2026-03-06T10:56:21.791Z,p_alvarez,True,,3,Build Up Box (Mailer)
+72.753988557,2026-03-06T10:58:45.919Z,l_aguilera,False,TOO_SHORT (72.8s < 90.0s),1,Put crystal tubes on their holder and stuff them with colored sticks
+179.941033216,2026-03-06T10:57:15.102Z,e_cabezas,True,,2,Put pasta in plastic containers
+170.440077696,2026-03-06T11:10:07.035Z,n_mora,True,,2,Transfer liquid using a funnel
+620.529885349,2026-03-06T11:07:20.707Z,d_lopez,True,,3,Package a sewing set
+555.754616316,2026-03-06T11:14:43.632Z,n_mora,True,,2,Transfer liquid using a funnel
+382.980946621,2026-03-06T11:38:41.830Z,n_mora,True,,2,Transfer liquid using a funnel
+391.421131181,2026-03-06T11:53:58.899Z,c_becerra,True,,3,Package a sewing set
+136.080510278,2026-03-06T12:05:21.415Z,n_mora,True,,2,Transfer liquid using a funnel
+202.2096407,2026-03-06T12:06:23.764Z,c_becerra,True,,3,Thread a needle
+478.592240563,2026-03-06T12:02:49.678Z,d_vargas,True,,4,Place cotton inside a crystal tube
+566.989486618,2026-03-06T12:02:46.927Z,e_cabezas,True,,1,Put crystal tubes on their holder and stuff them with colored sticks
+196.463141339,2026-03-06T12:10:40.241Z,c_becerra,True,,3,Thread a needle
+297.336394418,2026-03-06T12:10:47.523Z,n_mora,True,,2,Transfer liquid using a funnel
+221.590501712,2026-03-06T12:15:38.524Z,c_becerra,True,,3,Put pasta in ziploc bags
+81.386352889,2026-03-06T12:19:36.096Z,c_becerra,False,TOO_SHORT (81.4s < 90.0s),3,Put pasta in ziploc bags
+519.511364036,2026-03-06T12:14:25.231Z,e_cabezas,True,,1,Put crystal tubes on their holder and stuff them with colored sticks
+153.722723966,2026-03-06T12:23:00.204Z,n_mora,True,,2,Meassure 5 grams of rice and put it on a jar
+312.346185653,2026-03-06T12:23:08.324Z,c_becerra,True,,3,Fold a shirt
+197.902353626,2026-03-06T12:26:46.193Z,n_mora,True,,2,Meassure 5 grams of rice and put it on a jar
+78.703016633,2026-03-06T12:29:07.169Z,c_becerra,False,TOO_SHORT (78.7s < 90.0s),3,Built up box (Present)
+77.457786894,2026-03-06T12:30:52.883Z,c_becerra,False,TOO_SHORT (77.5s < 90.0s),3,Built up box (Present)
+62.303858809,2026-03-06T12:32:34.765Z,c_becerra,False,TOO_SHORT (62.3s < 90.0s),3,Built up box (Present)
+550.201395322,2026-03-06T12:24:05.587Z,e_cabezas,True,,1,Put crystal tubes on their holder and stuff them with colored sticks
+170.461684361,2026-03-06T12:31:40.927Z,n_mora,True,,2,Meassure 5 grams of rice and put it on a jar
+382.857045114,2026-03-06T12:28:19.361Z,d_vargas,True,,4,Transfer liquid using a funnel
+124.642377143,2026-03-06T12:34:07.238Z,e_cabezas,True,,1,Put crystal tubes on their holder and stuff them with colored sticks
+142.396943565,2026-03-06T12:35:03.148Z,n_mora,True,,2,Meassure 5 grams of rice and put it on a jar
+90.42800125,2026-03-06T12:39:50.507Z,c_becerra,True,,3,Built up box (Present)
+202.517807393,2026-03-06T12:39:21.472Z,n_mora,True,,2,Put pasta in plastic containers
+74.647181409,2026-03-06T12:42:02.109Z,c_becerra,False,TOO_SHORT (74.6s < 90.0s),3,Built up box (Present)
+255.370223493,2026-03-06T12:40:18.331Z,d_vargas,True,,4,Clean glasses and insert them in Ziploc bags along with a moist wipe
+85.342165592,2026-03-06T12:44:01.022Z,c_becerra,False,TOO_SHORT (85.3s < 90.0s),3,Built up box (Present)
+478.022641931,2026-03-06T12:37:18.249Z,e_cabezas,True,,1,Put crystal tubes on their holder and stuff them with colored sticks
+123.781892161,2026-03-06T12:45:55.008Z,n_mora,True,,2,Close bags with twist ties
+146.241309857,2026-03-06T12:45:56.856Z,c_becerra,True,,3,Build Up Box (Mailer)
+174.033382162,2026-03-06T12:49:08.107Z,c_becerra,True,,3,Build Up Box (Mailer)
+186.183828542,2026-03-06T12:49:18.829Z,n_mora,True,,2,Close bags with twist ties
+147.802356074,2026-03-06T12:52:48.214Z,c_becerra,True,,3,Build Up Box (Mailer)
+511.445047265,2026-03-06T12:46:30.972Z,e_cabezas,True,,1,Built up box (Present)
+202.006181016,2026-03-06T12:53:40.440Z,n_mora,True,,2,Pack up Clothes in a paper bag
+485.285318764,2026-03-06T12:49:17.184Z,d_vargas,True,,4,Transfer powder using a spoon
+126.407760415,2026-03-06T12:56:35.995Z,c_becerra,True,,3,Build Up Box (Mailer)
+160.570184605,2026-03-06T12:56:04.168Z,e_cabezas,True,,1,Built up box (Present)
+37.743864675,2026-03-06T12:58:58.508Z,c_becerra,False,TOO_SHORT (37.7s < 90.0s),3,Build Up Box (Mailer)
+318.624127334,2026-03-06T13:03:46.332Z,n_mora,True,,2,Pack up Clothes in a paper bag
+115.352833504,2026-03-06T13:07:40.963Z,l_aguilera,True,,1,Built up box (Present)
+202.193962684,2026-03-06T13:08:31.291Z,e_martinez,True,,4,Transfer powder using a spoon
+390.470592187,2026-03-06T13:08:21.532Z,p_alvarez,True,,3,Package a sewing set
+305.331975836,2026-03-06T13:10:48.604Z,n_mora,True,,2,Pack up Clothes in a paper bag
+188.705095182,2026-03-06T13:12:58.158Z,e_martinez,True,,4,Transfer powder using a spoon
+97.418381516,2026-03-06T13:16:53.284Z,p_alvarez,True,,3,Build Up Box (Mailer)
+145.91861818,2026-03-06T13:17:13.617Z,e_martinez,True,,4,Transfer powder using a spoon
+188.905062297,2026-03-06T13:17:34.940Z,n_mora,True,,2,Pack up Clothes in a paper bag
+109.933447113,2026-03-06T13:22:00.740Z,d_vargas,True,,1,Transfer liquid using a funnel
+229.349470666,2026-03-06T13:20:03.295Z,p_alvarez,True,,3,Build Up Box (Mailer)
+20.086827013,2026-03-06T13:24:11.487Z,e_martinez,False,TOO_SHORT (20.1s < 90.0s) | BAD_HZ /gripper_l/data (84.5/120.0) | BAD_HZ /gripper_r/data (89.4/120.0),4,Meassure 5 grams of rice and put it on a jar
+194.411063586,2026-03-06T13:25:24.244Z,p_alvarez,True,,3,Put pasta in ziploc bags
+79.390703866,2026-03-06T13:31:40.551Z,l_aguilera,False,TOO_SHORT (79.4s < 90.0s),1,Put crystal tubes on their holder and stuff them with colored sticks
+77.735194637,2026-03-06T13:33:35.989Z,l_aguilera,False,TOO_SHORT (77.7s < 90.0s),1,Put crystal tubes on their holder and stuff them with colored sticks
+80.360644575,2026-03-06T13:35:29.227Z,l_aguilera,False,TOO_SHORT (80.4s < 90.0s),1,Put crystal tubes on their holder and stuff them with colored sticks
+239.341748952,2026-03-06T13:32:33.962Z,p_alvarez,True,,3,Thread a needle
+70.217448203,2026-03-06T13:37:43.105Z,l_aguilera,False,TOO_SHORT (70.2s < 90.0s),1,Put crystal tubes on their holder and stuff them with colored sticks
+76.934971612,2026-03-06T13:40:02.395Z,l_aguilera,False,TOO_SHORT (76.9s < 90.0s),1,Put crystal tubes on their holder and stuff them with colored sticks
+69.250830314,2026-03-06T13:42:00.355Z,l_aguilera,False,TOO_SHORT (69.3s < 90.0s),1,Put crystal tubes on their holder and stuff them with colored sticks
+72.770003977,2026-03-06T13:43:54.370Z,l_aguilera,False,TOO_SHORT (72.8s < 90.0s),1,Put crystal tubes on their holder and stuff them with colored sticks
+349.734450465,2026-03-06T13:39:12.305Z,p_alvarez,True,,3,Put hooks on shower courtain
+68.154840736,2026-03-06T13:45:38.937Z,l_aguilera,False,TOO_SHORT (68.2s < 90.0s),1,Put crystal tubes on their holder and stuff them with colored sticks
+75.909427642,2026-03-06T13:47:34.294Z,l_aguilera,False,TOO_SHORT (75.9s < 90.0s),1,Put crystal tubes on their holder and stuff them with colored sticks
+72.006200648,2026-03-06T13:49:28.276Z,l_aguilera,False,TOO_SHORT (72.0s < 90.0s),1,Put crystal tubes on their holder and stuff them with colored sticks
+68.418326426,2026-03-06T13:51:12.876Z,l_aguilera,False,TOO_SHORT (68.4s < 90.0s),1,Put crystal tubes on their holder and stuff them with colored sticks
+460.115558039,2026-03-06T13:47:21.745Z,p_alvarez,True,,3,Package a sewing set
+97.337985329,2026-03-06T13:57:55.501Z,p_alvarez,True,,3,Build Up Box (Mailer)
+12.929328501,2026-03-06T14:05:43.532Z,d_lopez,False,TOO_SHORT (12.9s < 90.0s),3,Package a sewing set
+112.049931737,2026-03-06T14:06:35.793Z,l_aguilera,True,,1,Put pasta in plastic containers
+104.591304264,2026-03-06T14:08:20.993Z,n_mora,True,,2,Put crystal tubes on their holder and stuff them with colored sticks
+102.333748313,2026-03-06T14:09:46.469Z,l_aguilera,True,,1,Put pasta in plastic containers
+92.082260219,2026-03-06T14:10:39.796Z,n_mora,True,,2,Put crystal tubes on their holder and stuff them with colored sticks
+88.735355064,2026-03-06T14:12:35.214Z,n_mora,False,TOO_SHORT (88.7s < 90.0s),2,Put crystal tubes on their holder and stuff them with colored sticks
+93.939044936,2026-03-06T14:12:32.913Z,l_aguilera,True,,1,Put pasta in plastic containers
+91.002704191,2026-03-06T14:15:12.869Z,l_aguilera,True,,1,Put pasta in plastic containers
+104.793041615,2026-03-06T14:15:38.825Z,n_mora,True,,2,Pack on a cardboard box (Present)
+82.086622458,2026-03-06T14:17:41.753Z,l_aguilera,False,TOO_SHORT (82.1s < 90.0s),1,Put pasta in plastic containers
+798.827804558,2026-03-06T14:06:10.253Z,d_lopez,True,,3,Package a sewing set
+209.584004219,2026-03-06T14:20:19.215Z,l_aguilera,True,,1,Put pasta in plastic containers
+177.879636206,2026-03-06T14:25:14.856Z,l_aguilera,True,,1,Put pasta in plastic containers
+415.195247855,2026-03-06T14:22:32.017Z,n_mora,True,,2,Clean dishes with a towel and put them to dry
+178.312065575,2026-03-06T14:29:59.377Z,l_aguilera,True,,1,Put pasta in plastic containers
+743.86575211,2026-03-06T14:22:43.974Z,d_lopez,True,,3,Package a sewing set
+181.855161305,2026-03-06T14:34:33.298Z,l_aguilera,True,,1,Put pasta in plastic containers
+129.820487939,2026-03-06T14:38:48.477Z,n_mora,True,,2,Clean glasses and insert them in Ziploc bags along with a moist wipe
+162.140183438,2026-03-06T14:39:07.484Z,l_aguilera,True,,1,Put pasta in plastic containers
+148.193232373,2026-03-06T14:43:18.378Z,l_aguilera,True,,1,Put pasta in plastic containers
+277.288971884,2026-03-06T14:41:46.241Z,n_mora,True,,2,Transfer powder using a spoon
+163.525696163,2026-03-06T14:47:28.378Z,l_aguilera,True,,1,Put pasta in plastic containers
+181.15876022,2026-03-06T14:48:03.617Z,n_mora,True,,2,Transfer powder using a spoon
+798.995963726,2026-03-06T14:39:40.182Z,d_lopez,True,,3,Package a sewing set
+12.360868608,2026-03-06T14:55:59.998Z,d_lopez,False,TOO_SHORT (12.4s < 90.0s) | BAD_HZ /gripper_r/data (98.4/120.0),3,Thread a needle
+179.603299827,2026-03-06T14:56:16.478Z,d_lopez,True,,3,Thread a needle
+107.712444208,2026-03-07T07:05:50.422Z,l_aguilera,True,,1,Put crystal tubes on their holder and stuff them with colored sticks
+160.524431016,2026-03-07T07:19:09.569Z,d_vargas,True,,2,Clean glasses and insert them in Ziploc bags along with a moist wipe
+576.715481235,2026-03-07T07:10:55.054Z,e_cabezas,True,,3,Built up box (Present)
+238.435577695,2026-03-07T07:20:21.613Z,l_aguilera,True,,1,Put pasta in plastic containers
+160.481515979,2026-03-07T07:30:15.124Z,d_vargas,True,,2,Clean glasses and insert them in Ziploc bags along with a moist wipe
+604.097379682,2026-03-07T07:21:16.953Z,e_cabezas,True,,3,Build Up Box (Mailer)
+163.613525026,2026-03-07T07:33:21.942Z,d_vargas,True,,2,Clean glasses and insert them in Ziploc bags along with a moist wipe
+204.212634878,2026-03-07T07:32:34.005Z,l_aguilera,True,,1,Put pasta in plastic containers
+206.025536084,2026-03-07T07:36:23.794Z,d_vargas,True,,2,Clean glasses and insert them in Ziploc bags along with a moist wipe
+191.281474235,2026-03-07T07:37:20.863Z,l_aguilera,True,,1,Put pasta in plastic containers
+139.064901655,2026-03-07T07:40:41.991Z,d_vargas,True,,2,Put crystal tubes on their holder and stuff them with colored sticks
+593.879301455,2026-03-07T07:33:15.667Z,e_cabezas,True,,3,Fold towels
+169.935023301,2026-03-07T07:42:02.164Z,l_aguilera,True,,1,Put pasta in plastic containers
+122.829131558,2026-03-07T07:43:31.028Z,d_vargas,True,,2,Put crystal tubes on their holder and stuff them with colored sticks
+106.722944711,2026-03-07T07:46:11.262Z,d_vargas,True,,2,Put crystal tubes on their holder and stuff them with colored sticks
+167.826549694,2026-03-07T07:46:11.472Z,l_aguilera,True,,1,Put pasta in plastic containers
+119.346343851,2026-03-07T07:48:35.785Z,d_vargas,True,,2,Put crystal tubes on their holder and stuff them with colored sticks
+620.451902791,2026-03-07T07:44:02.862Z,e_cabezas,True,,3,Thread a needle
+186.966993021,2026-03-07T07:53:53.281Z,l_aguilera,True,,1,Put pasta in plastic containers
+463.599247582,2026-03-07T07:52:15.141Z,d_vargas,True,,2,Fold Socks
+295.931424287,2026-03-07T07:55:45.415Z,e_cabezas,True,,3,Built up box (Present)
+105.453548527,2026-03-07T08:15:18.704Z,c_becerra,True,,4,Set Screwdriver package
+274.223826096,2026-03-07T08:13:27.342Z,n_mora,True,,2,Fold towels
+511.971681746,2026-03-07T08:09:11.411Z,p_alvarez,True,,3,Package a sewing set
+95.095987926,2026-03-07T08:18:12.434Z,c_becerra,True,,4,Set Screwdriver package
+117.764182605,2026-03-07T08:20:23.955Z,c_becerra,True,,4,Meassure 5 grams of rice and put it on a jar
+194.290430254,2026-03-07T08:20:55.962Z,n_mora,True,,2,Fold towels
+219.366714155,2026-03-07T08:20:56.193Z,p_alvarez,True,,3,Thread a needle
+214.45880678,2026-03-07T08:23:01.109Z,c_becerra,True,,4,Meassure 5 grams of rice and put it on a jar
+105.74817395,2026-03-07T08:25:30.599Z,n_mora,True,,2,Put crystal tubes on their holder and stuff them with colored sticks
+113.216098735,2026-03-07T08:28:34.386Z,n_mora,True,,2,Put crystal tubes on their holder and stuff them with colored sticks
+213.072320538,2026-03-07T08:27:27.463Z,c_becerra,True,,4,Meassure 5 grams of rice and put it on a jar
+340.390082747,2026-03-07T08:26:56.625Z,p_alvarez,True,,3,Put hooks on shower courtain
+95.380369044,2026-03-07T08:32:46.564Z,n_mora,True,,2,Put crystal tubes on their holder and stuff them with colored sticks
+104.775385671,2026-03-07T08:32:59.842Z,c_becerra,True,,4,Put crystal tubes on their holder and stuff them with colored sticks
+122.104245199,2026-03-07T08:35:04.275Z,c_becerra,True,,4,Put crystal tubes on their holder and stuff them with colored sticks
+246.194657642,2026-03-07T08:34:12.921Z,p_alvarez,True,,3,Put pasta in ziploc bags
+117.482635768,2026-03-07T08:37:50.116Z,c_becerra,True,,4,Put crystal tubes on their holder and stuff them with colored sticks
+165.473210002,2026-03-07T08:40:24.668Z,v_carrillo,True,,1,Put pasta in plastic containers
+120.721299923,2026-03-07T08:41:21.679Z,p_alvarez,True,,3,Build Up Box (Mailer)
+214.400239574,2026-03-07T08:41:12.990Z,c_becerra,True,,4,Place cotton inside a crystal tube
+127.931625473,2026-03-07T08:44:37.516Z,v_carrillo,True,,1,Put pasta in plastic containers
+313.943441096,2026-03-07T08:42:39.223Z,n_mora,True,,2,Transfer powder using a spoon
+151.117373987,2026-03-07T08:46:23.794Z,c_becerra,True,,4,Place cotton inside a crystal tube
+127.539749757,2026-03-07T08:47:37.218Z,v_carrillo,True,,1,Put pasta in plastic containers
+173.319528379,2026-03-07T08:50:39.269Z,v_carrillo,True,,1,Put pasta in plastic containers
+181.714392421,2026-03-07T08:50:57.703Z,c_becerra,True,,4,Place cotton inside a crystal tube
+263.402239045,2026-03-07T08:49:41.679Z,n_mora,True,,2,Transfer powder using a spoon
+228.792288592,2026-03-07T08:51:07.425Z,p_alvarez,True,,3,Put hooks on shower courtain
+157.850691374,2026-03-07T08:54:52.382Z,v_carrillo,True,,1,Put pasta in plastic containers
+173.692976511,2026-03-07T08:55:33.302Z,c_becerra,True,,4,Place cotton inside a crystal tube
+92.277184316,2026-03-07T08:58:39.016Z,p_alvarez,True,,3,Build Up Box (Mailer)
+143.307031255,2026-03-07T09:06:18.278Z,l_aguilera,True,,2,Clean glasses and insert them in Ziploc bags along with a moist wipe
+122.958288728,2026-03-07T09:09:04.935Z,l_aguilera,True,,2,Clean glasses and insert them in Ziploc bags along with a moist wipe
+189.738505376,2026-03-07T09:08:10.674Z,e_martinez,True,,4,Meassure 5 grams of rice and put it on a jar
+352.183223554,2026-03-07T09:05:58.497Z,n_mora,True,,1,Put pasta in plastic containers
+172.606128224,2026-03-07T09:11:33.353Z,l_aguilera,True,,2,Clean glasses and insert them in Ziploc bags along with a moist wipe
+142.394308694,2026-03-07T09:13:02.262Z,e_martinez,True,,4,Meassure 5 grams of rice and put it on a jar
+168.066187564,2026-03-07T09:15:05.334Z,l_aguilera,True,,2,Clean glasses and insert them in Ziploc bags along with a moist wipe
+235.617386285,2026-03-07T09:13:57.162Z,n_mora,True,,1,Put pasta in plastic containers
+143.510563396,2026-03-07T09:16:55.922Z,e_martinez,True,,4,Meassure 5 grams of rice and put it on a jar
+657.497481104,2026-03-07T09:07:57.785Z,d_lopez,True,,3,Package a sewing set
+170.78053471,2026-03-07T09:18:33.515Z,l_aguilera,True,,2,Clean glasses and insert them in Ziploc bags along with a moist wipe
+145.703943461,2026-03-07T09:22:03.830Z,l_aguilera,True,,2,Clean glasses and insert them in Ziploc bags along with a moist wipe
+211.942296645,2026-03-07T09:21:00.510Z,e_martinez,True,,4,Transfer powder using a spoon
+346.763176808,2026-03-07T09:19:42.761Z,n_mora,True,,1,Put pasta in plastic containers
+133.239586843,2026-03-07T09:25:10.284Z,l_aguilera,True,,2,Clean glasses and insert them in Ziploc bags along with a moist wipe
+145.037406538,2026-03-07T09:28:07.054Z,l_aguilera,True,,2,Clean glasses and insert them in Ziploc bags along with a moist wipe
+169.446516095,2026-03-07T09:27:47.641Z,e_martinez,True,,4,Put crystal tubes on their holder and stuff them with colored sticks
+243.358813701,2026-03-07T09:27:55.442Z,n_mora,True,,1,Put pasta in plastic containers
+99.107610768,2026-03-07T09:44:45.855Z,l_aguilera,True,,2,Put crystal tubes on their holder and stuff them with colored sticks
+125.03206668,2026-03-07T09:40:46.154Z,e_martinez,True,,4,Put crystal tubes on their holder and stuff them with colored sticks
+327.543638152,2026-03-07T09:34:36.748Z,n_mora,True,,1,Put pasta in plastic containers
+113.914484011,2026-03-07T12:00:25.729Z,e_martinez,True,,4,Put crystal tubes on their holder and stuff them with colored sticks
+138.873594148,2026-03-07T09:44:33.508Z,n_mora,True,,1,Clean glasses and insert them in Ziploc bags along with a moist wipe
+118.759119304,2026-03-07T12:05:42.573Z,e_martinez,True,,4,Put crystal tubes on their holder and stuff them with colored sticks
+139.098529917,2026-03-07T09:48:35.387Z,n_mora,True,,1,Clean glasses and insert them in Ziploc bags along with a moist wipe
+118.58490888,2026-03-07T12:08:39.415Z,e_martinez,True,,4,Put crystal tubes on their holder and stuff them with colored sticks
+111.10889001,2026-03-07T09:52:52.229Z,n_mora,True,,1,Clean glasses and insert them in Ziploc bags along with a moist wipe
+110.467346424,2026-03-07T12:11:41.649Z,e_martinez,True,,4,Put crystal tubes on their holder and stuff them with colored sticks
+783.287123096,2026-03-07T09:31:27.184Z,d_lopez,True,,3,Package a sewing set
+268.272901886,2026-03-07T10:25:54.241Z,e_martinez,True,,4,Place cotton inside a crystal tube
+135.476513811,2026-03-07T09:48:10.683Z,d_lopez,True,,3,Put pasta in ziploc bags
+216.831009277,2026-03-07T10:32:00.429Z,e_martinez,True,,4,Place cotton inside a crystal tube
+207.43085511,2026-03-07T10:37:48.722Z,e_martinez,True,,4,Place cotton inside a crystal tube
+146.896399661,2026-03-07T11:16:42.236Z,e_martinez,True,,4,Place cotton inside a crystal tube
+683.949518864,2026-03-07T09:50:58.452Z,d_lopez,True,,3,Put pasta in ziploc bags
+145.097839901,2026-03-07T11:56:07.599Z,e_martinez,True,,4,Place cotton inside a crystal tube
+110.933649432,2026-03-07T13:01:33.108Z,p_alvarez,True,,3,Put pasta in ziploc bags
+209.389901091,2026-03-07T10:16:08.859Z,e_martinez,True,,4,Clean glasses and insert them in Ziploc bags along with a moist wipe
+283.610037516,2026-03-07T12:27:32.741Z,e_martinez,True,,4,Put pasta in jars
+322.032307336,2026-03-07T12:33:47.273Z,e_martinez,True,,4,Put pasta in jars
+111.148198217,2026-03-07T12:15:50.693Z,e_martinez,True,,4,Package a sewing set
+102.978515751,2026-03-07T12:17:56.222Z,e_martinez,True,,4,Package a sewing set
+132.392128053,2026-03-07T13:05:52.568Z,d_vargas,True,,2,Put crystal tubes on their holder and stuff them with colored sticks
+128.562699321,2026-03-07T12:20:04.400Z,e_martinez,True,,4,Package a sewing set
+96.958437919,2026-03-07T12:22:59.113Z,e_martinez,True,,4,Package a sewing set
+102.902123651,2026-03-07T12:24:53.083Z,e_martinez,True,,4,Package a sewing set
+272.545252056,2026-03-07T09:46:13.310Z,e_martinez,True,,4,Put hooks on shower courtain
+218.806039614,2026-03-07T09:52:44.906Z,e_martinez,True,,4,Put hooks on shower courtain
+157.195845262,2026-03-07T09:57:55.846Z,e_martinez,True,,4,Put hooks on shower courtain
+190.470582976,2026-03-07T10:06:50.459Z,e_martinez,True,,4,Put hooks on shower courtain
+154.948927263,2026-03-07T13:09:08.140Z,d_vargas,True,,2,Put crystal tubes on their holder and stuff them with colored sticks
+317.073227795,2026-03-07T10:44:32.752Z,e_martinez,True,,4,Tie Shoelaces
+272.44830504,2026-03-07T10:52:01.725Z,e_martinez,True,,4,Tie Shoelaces
+413.009069349,2026-03-07T13:06:21.461Z,n_mora,True,,1,Transfer liquid using a funnel
+101.380384423,2026-03-07T13:12:39.968Z,d_vargas,True,,2,Put crystal tubes on their holder and stuff them with colored sticks
+228.246707803,2026-03-07T10:57:52.818Z,e_martinez,True,,4,Tie Shoelaces
+385.713748838,2026-03-07T11:08:15.626Z,e_martinez,True,,4,Tie Shoelaces
+154.925452229,2026-03-07T09:31:47.293Z,e_martinez,True,,4,Put crystal tubes on their holder and stuff them with colored sticks
+181.91649781,2026-03-07T09:36:20.942Z,e_martinez,True,,4,Put crystal tubes on their holder and stuff them with colored sticks
+193.866516761,2026-03-07T12:41:45.350Z,e_martinez,True,,4,Meassure 5 grams of rice and put it on a jar
+238.144233722,2026-03-07T12:46:05.226Z,e_martinez,True,,4,Meassure 5 grams of rice and put it on a jar
+101.675587213,2026-03-07T13:17:19.030Z,d_vargas,True,,2,Put crystal tubes on their holder and stuff them with colored sticks
+171.723830538,2026-03-07T12:51:11.419Z,e_martinez,True,,4,Meassure 5 grams of rice and put it on a jar
+146.678312363,2026-03-07T12:55:52.779Z,e_martinez,True,,4,Meassure 5 grams of rice and put it on a jar
+177.483416294,2026-03-07T13:08:56.905Z,e_martinez,True,,4,Put pasta in jars
+161.430983692,2026-03-07T13:14:10.291Z,e_martinez,True,,4,Put pasta in jars
+139.616738492,2026-03-07T13:17:43.461Z,e_martinez,True,,4,Put pasta in jars
+924.942789236,2026-03-07T13:07:13.719Z,d_lopez,True,,3,Put pasta in ziploc bags
+185.980841087,2026-03-07T13:21:42.329Z,e_martinez,True,,4,Put pasta in jars
+366.086909015,2026-03-07T13:19:52.697Z,n_mora,True,,1,Transfer liquid using a funnel
+136.020572064,2026-03-07T13:25:32.129Z,d_lopez,True,,3,Put pasta in ziploc bags
+372.812288357,2026-03-07T13:22:17.797Z,d_vargas,True,,2,Fold Socks
+169.40114148,2026-03-07T13:28:12.189Z,e_martinez,True,,4,Put crystal tubes on their holder and stuff them with colored sticks
+304.609482264,2026-03-07T13:28:50.934Z,n_mora,True,,1,Transfer liquid using a funnel
+179.126048413,2026-03-07T13:34:24.696Z,e_martinez,True,,4,Put crystal tubes on their holder and stuff them with colored sticks
+440.778912392,2026-03-07T13:31:46.912Z,d_vargas,True,,2,Put pasta in plastic containers
+165.941556331,2026-03-07T13:40:10.156Z,e_martinez,True,,4,Put crystal tubes on their holder and stuff them with colored sticks
+345.90654986,2026-03-07T13:39:20.488Z,n_mora,True,,1,Transfer liquid using a funnel
+837.599558299,2026-03-07T13:31:09.775Z,d_lopez,True,,3,Put pasta in ziploc bags
+161.176836149,2026-03-07T13:44:44.885Z,e_martinez,True,,4,Put crystal tubes on their holder and stuff them with colored sticks
+493.952031365,2026-03-07T13:41:16.124Z,d_vargas,True,,2,Package earphones
+116.116326002,2026-03-07T13:50:28.200Z,n_mora,True,,1,Transfer liquid using a funnel
+152.26853388,2026-03-07T13:50:15.984Z,e_martinez,True,,4,Put crystal tubes on their holder and stuff them with colored sticks
+101.586657743,2026-03-07T13:54:10.027Z,n_mora,True,,1,Transfer liquid using a funnel
+94.227196774,2026-03-07T13:56:32.314Z,n_mora,True,,1,Transfer liquid using a funnel
+189.724288291,2026-03-07T13:55:15.548Z,e_martinez,True,,4,Put crystal tubes on their holder and stuff them with colored sticks
+453.699684438,2026-03-07T13:51:33.377Z,d_vargas,True,,2,Package earphones
+678.993381668,2026-03-07T13:47:40.224Z,d_lopez,True,,3,Put pasta in ziploc bags
+131.62346493,2026-03-07T14:05:17.861Z,c_becerra,True,,4,Put crystal tubes on their holder and stuff them with colored sticks
+123.380071835,2026-03-07T14:08:31.513Z,c_becerra,True,,4,Put crystal tubes on their holder and stuff them with colored sticks
+255.204759654,2026-03-07T14:07:18.341Z,d_vargas,True,,2,Clean glasses and insert them in Ziploc bags along with a moist wipe
+113.758498302,2026-03-07T14:11:28.284Z,c_becerra,True,,4,Put crystal tubes on their holder and stuff them with colored sticks
+153.807990339,2026-03-07T14:12:03.157Z,d_vargas,True,,2,Clean glasses and insert them in Ziploc bags along with a moist wipe
+431.153723853,2026-03-07T14:08:44.958Z,p_alvarez,True,,3,Package a sewing set
+137.444419075,2026-03-07T14:16:36.882Z,c_becerra,True,,4,Place cotton inside a crystal tube
+114.415721474,2026-03-07T14:17:14.607Z,d_vargas,True,,2,Clean glasses and insert them in Ziploc bags along with a moist wipe
+206.511833867,2026-03-07T14:17:15.225Z,p_alvarez,True,,3,Put pasta in ziploc bags
+133.506005075,2026-03-07T14:20:21.341Z,c_becerra,True,,4,Place cotton inside a crystal tube
+103.995871876,2026-03-07T14:22:18.931Z,p_alvarez,True,,3,Build Up Box (Mailer)
+188.753866323,2026-03-07T14:22:26.442Z,l_aguilera,True,,1,Put pasta in plastic containers
+125.641272042,2026-03-07T14:24:34.640Z,c_becerra,True,,4,Place cotton inside a crystal tube
+363.086357173,2026-03-07T14:22:07.046Z,d_vargas,True,,2,Package earphones
+213.667040057,2026-03-07T14:25:29.310Z,p_alvarez,True,,3,Fold towels
+175.010021364,2026-03-07T14:27:01.829Z,l_aguilera,True,,1,Put pasta in plastic containers
+232.204810767,2026-03-07T14:28:08.525Z,c_becerra,True,,4,Build Up Box (Mailer)
+167.35503245,2026-03-07T14:31:18.251Z,l_aguilera,True,,1,Put pasta in plastic containers
+158.476376174,2026-03-07T14:31:56.943Z,p_alvarez,True,,3,Thread a needle
+154.012711889,2026-03-07T14:33:03.713Z,c_becerra,True,,4,Build Up Box (Mailer)
+265.659735725,2026-03-07T14:31:57.189Z,d_vargas,True,,2,Put crystal tubes on their holder and stuff them with colored sticks
+145.888253011,2026-03-07T14:35:09.417Z,p_alvarez,True,,3,Thread a needle
+107.299681154,2026-03-07T14:37:07.652Z,d_vargas,True,,2,Put crystal tubes on their holder and stuff them with colored sticks
+175.555866082,2026-03-07T14:35:49.362Z,l_aguilera,True,,1,Put pasta in plastic containers
+172.266976152,2026-03-07T14:36:57.598Z,c_becerra,True,,4,Build Up Box (Mailer)
+106.674623169,2026-03-07T14:39:45.831Z,d_vargas,True,,2,Put crystal tubes on their holder and stuff them with colored sticks
+178.765596159,2026-03-07T14:40:02.194Z,l_aguilera,True,,1,Put pasta in plastic containers
+109.054865779,2026-03-07T14:41:40.482Z,c_becerra,True,,4,Put crystal tubes on their holder and stuff them with colored sticks
+283.678928883,2026-03-07T14:39:01.738Z,p_alvarez,True,,3,Put hooks on shower courtain
+172.315560239,2026-03-07T14:43:19.704Z,d_vargas,True,,2,Clean glasses and insert them in Ziploc bags along with a moist wipe
+144.35956849,2026-03-07T14:44:19.340Z,c_becerra,True,,4,Put crystal tubes on their holder and stuff them with colored sticks
+172.957917841,2026-03-07T14:45:19.900Z,l_aguilera,True,,1,Put pasta in plastic containers
+170.711341999,2026-03-07T14:46:44.332Z,d_vargas,True,,2,Clean glasses and insert them in Ziploc bags along with a moist wipe
+114.756128966,2026-03-07T14:47:42.032Z,c_becerra,True,,4,Put crystal tubes on their holder and stuff them with colored sticks
+136.895532906,2026-03-07T14:49:18.270Z,l_aguilera,True,,1,Put pasta in plastic containers
+123.414737193,2026-03-07T14:50:25.227Z,c_becerra,True,,4,Put crystal tubes on their holder and stuff them with colored sticks
+387.977486575,2026-03-07T14:46:32.879Z,p_alvarez,True,,3,Package a sewing set
+115.48279746,2026-03-07T14:53:07.836Z,c_becerra,True,,4,Put crystal tubes on their holder and stuff them with colored sticks
+98.556789389,2026-03-07T14:54:15.468Z,p_alvarez,True,,3,Build Up Box (Mailer)
+235.303543896,2026-03-07T14:50:19.384Z,d_vargas,True,,2,Clean glasses and insert them in Ziploc bags along with a moist wipe
+179.479935909,2026-03-09T07:05:51.504Z,c_becerra,True,,1,Put pasta in plastic containers
+182.805384999,2026-03-09T07:07:59.276Z,a_valles,True,,4,Build Up Box (Mailer)
+129.401141343,2026-03-09T07:09:45.702Z,c_becerra,True,,1,Put pasta in plastic containers
+135.990621156,2026-03-09T07:12:59.172Z,c_becerra,True,,1,Put pasta in plastic containers
+385.534772943,2026-03-09T07:10:23.387Z,l_aguilera,True,,3,Fold towels
+378.349181558,2026-03-09T07:11:20.195Z,a_valles,True,,4,Build Up Box (Mailer)
+121.927670108,2026-03-09T07:17:31.113Z,c_becerra,True,,1,Built up box (Present)
+158.197631909,2026-03-09T07:18:22.704Z,a_valles,True,,4,Build Up Box (Mailer)
+142.842632161,2026-03-09T07:19:59.955Z,c_becerra,True,,1,Built up box (Present)
+300.084337671,2026-03-09T07:19:06.101Z,d_lopez,True,,2,Fold Socks
+345.475899834,2026-03-09T07:18:12.983Z,l_aguilera,True,,3,Fold towels
+133.021860609,2026-03-09T07:22:56.224Z,c_becerra,True,,1,Built up box (Present)
+349.842775062,2026-03-09T07:21:26.530Z,a_valles,True,,4,Build Up Box (Mailer)
+282.094067032,2026-03-09T07:25:28.828Z,l_aguilera,True,,3,Fold towels
+117.705670986,2026-03-09T07:29:27.766Z,c_becerra,True,,1,Built up box (Present)
+182.358048859,2026-03-09T07:29:47.739Z,a_valles,True,,4,Put crystal tubes on their holder and stuff them with colored sticks
+112.277029036,2026-03-09T07:32:01.218Z,c_becerra,True,,1,Built up box (Present)
+101.993206382,2026-03-09T07:34:19.932Z,c_becerra,True,,1,Built up box (Present)
+271.614899516,2026-03-09T07:31:24.978Z,l_aguilera,True,,3,Fold towels
+223.6228102,2026-03-09T07:33:32.998Z,a_valles,True,,4,Put crystal tubes on their holder and stuff them with colored sticks
+615.679817226,2026-03-09T07:26:32.167Z,d_lopez,True,,2,Fold Socks
+215.362401767,2026-03-09T07:38:17.509Z,a_valles,True,,4,Put crystal tubes on their holder and stuff them with colored sticks
+337.032097675,2026-03-09T07:37:36.237Z,l_aguilera,True,,3,Fold towels
+177.975593661,2026-03-09T07:42:58.712Z,a_valles,True,,4,Put crystal tubes on their holder and stuff them with colored sticks
+180.919532303,2026-03-09T07:46:49.493Z,a_valles,True,,4,Put crystal tubes on their holder and stuff them with colored sticks
+334.536952222,2026-03-09T07:44:43.148Z,l_aguilera,True,,3,Put pasta in ziploc bags
+702.87616782,2026-03-09T07:38:32.619Z,d_lopez,True,,2,Fold Socks
+151.285063032,2026-03-09T07:50:47.344Z,a_valles,True,,4,Put crystal tubes on their holder and stuff them with colored sticks
+312.591436782,2026-03-09T07:50:59.865Z,l_aguilera,True,,3,Put pasta in ziploc bags
+1040.354462502,2026-03-09T07:38:19.162Z,c_becerra,True,,1,Tie Shoelaces
+208.805764321,2026-03-09T07:54:48.187Z,a_valles,True,,4,Put crystal tubes on their holder and stuff them with colored sticks
+121.992820653,2026-03-09T07:56:07.123Z,c_becerra,True,,1,Build Up Box (Mailer)
+90.767250924,2026-03-09T07:58:27.884Z,c_becerra,True,,1,Build Up Box (Mailer)
+266.007576547,2026-03-09T07:57:05.087Z,l_aguilera,True,,3,Put pasta in ziploc bags
+533.993976504,2026-03-09T07:52:52.892Z,d_lopez,True,,2,Fold Socks
+96.673561515,2026-03-09T08:06:47.632Z,l_aguilera,True,,3,Built up box (Present)
+95.630601958,2026-03-09T08:09:00.754Z,l_aguilera,True,,3,Built up box (Present)
