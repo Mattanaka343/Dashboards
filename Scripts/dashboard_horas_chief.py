@@ -27,17 +27,29 @@ def load_and_clean():
         st.error(f'Error while loading data: {e}')
         return None
     
-def weekly_data(df):
-    cutoff = (pd.Timestamp.today() - pd.Timedelta(days=7)).date()
-    df['StartTime'] = pd.to_datetime(df['StartTime'])
-    week_db = df[df['StartTime'].dt.date >= cutoff]
-    return week_db
+def weekly_data(df, w):
+
+    df = df.sort_values('StartTime').copy()
+
+    # convert to date
+    df['date'] = df['StartTime'].dt.date
+
+    # unique ordered dates
+    dates = df['date'].unique()
+
+    # map each date to a week index
+    date_to_week = {d: i//6 + 1 for i, d in enumerate(dates)}
+
+    df['week'] = df['date'].map(date_to_week)
+
+    return df[df['week'] == w]
 
 def daily_data(df):
     cutoff = pd.Timestamp.today().date()
     df['StartTime'] = pd.to_datetime(df['StartTime'])
     day_db = df[df['StartTime'].dt.date == cutoff]
     return day_db
+
 
 def yester_data(df):
     cutoff = (pd.Timestamp.today() - pd.Timedelta(days=1)).date()
@@ -227,7 +239,21 @@ if data is not None:
                     options = [i for i in range(1,13)],
                     index = idx
                 )
-    
+            
+            if form == 'Weekly':
+                n = data['StartTime'].dt.date.nunique()
+                if n % 6 != 0:
+                    week= st.selectbox(
+                        'Select a Week',
+                        options = [i for i in range(1, (n//6) + 2)],
+                        index = 7)
+                else: 
+                    week= st.selectbox(
+                        'Select a Week',
+                        options = [i for i in range(1, (n//6) + 1)],
+                        index = 7)
+                    
+                
         bot  = st.button(
             'Launch',
             use_container_width = True,
@@ -245,7 +271,7 @@ if data is not None:
 
     if bot:
         if form == 'Weekly':
-            data = weekly_data(data)
+            data = weekly_data(data,week)
         elif form == 'Today':
             data = daily_data(data)
         elif form == 'Monthly':
