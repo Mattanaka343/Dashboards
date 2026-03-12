@@ -10652,3 +10652,415 @@ Duration(s),StartTime,Operator,IsValid,FailReason,Station,SkillName
 595.123940604,2026-03-11T08:48:26.794Z,e_cabezas,True,,4,Build Up Box (Mailer)
 220.908285366,2026-03-11T08:14:55.860Z,v_carrillo,True,,2,Put pasta in plastic containers
 276.801086395,2026-03-11T08:50:39.317Z,a_valles,True,BAD_HZ /camera_l/ffmpeg (16.8/30.0) | BAD_HZ /camera_l/depth/image_rect_raw (2.6/30.0),1,Clean dishes with a towel and put them to dry
+212.423655426,2026-03-11T08:56:07.039Z,a_valles,True,BAD_HZ /camera_l/ffmpeg (15.1/30.0) | BAD_HZ /camera_l/depth/image_rect_raw (1.5/30.0),1,Clean dishes with a towel and put them to dry
+196.415399904,2026-03-11T08:20:27.028Z,v_carrillo,True,,2,Put pasta in plastic containers
+263.428022319,2026-03-11T08:38:24.555Z,d_vargas,True,,3,Clean glasses and insert them in Ziploc bags along with a moist wipe
+103.040440096,2026-03-11T07:50:47.490Z,a_valles,True,,1,Put crystal tubes on their holder and stuff them with colored sticks
+194.164100348,2026-03-11T08:25:10.258Z,v_carrillo,True,,2,Put pasta in plastic containers
+124.342127209,2026-03-11T07:53:09.173Z,a_valles,True,,1,Put crystal tubes on their holder and stuff them with colored sticks
+185.360735674,2026-03-11T08:33:47.517Z,v_carrillo,True,,2,Built up box (Present)
+101.187182971,2026-03-11T07:56:02.616Z,a_valles,True,,1,Put crystal tubes on their holder and stuff them with colored sticks
+565.503067561,2026-03-11T07:49:53.940Z,e_cabezas,True,,4,Put crystal tubes on their holder and stuff them with colored sticks
+99.142731149,2026-03-11T07:58:34.896Z,a_valles,True,,1,Put crystal tubes on their holder and stuff them with colored sticks
+189.511923114,2026-03-11T08:38:08.067Z,v_carrillo,True,,2,Built up box (Present)
+144.280327771,2026-03-11T08:06:14.381Z,a_valles,True,,1,Place cotton inside a crystal tube
+148.913419651,2026-03-11T08:42:10.032Z,v_carrillo,True,,2,Built up box (Present)
+182.748916453,2026-03-11T09:10:15.404Z,a_valles,True,BAD_HZ /camera_l/ffmpeg (13.2/30.0) | BAD_HZ /camera_l/depth/image_rect_raw (0.8/30.0),1,Transfer powder using a spoon
+225.702606321,2026-03-11T09:14:33.087Z,a_valles,True,BAD_HZ /camera_l/ffmpeg (13.5/30.0) | BAD_HZ /camera_l/depth/image_rect_raw (0.6/30.0),1,Transfer powder using a spoon
+418.817058702,2026-03-11T08:44:40.483Z,d_vargas,True,,3,Clean glasses and insert them in Ziploc bags along with a moist wipe
+250.138590747,2026-03-11T09:19:45.520Z,a_valles,True,BAD_HZ /camera_l/depth/image_rect_raw (1.5/30.0) | BAD_HZ /camera_l/ffmpeg (11.9/30.0),1,Transfer powder using a spoon
+573.255726356,2026-03-11T08:05:32.151Z,e_cabezas,True,,4,Put crystal tubes on their holder and stuff them with colored sticks
+189.079857418,2026-03-11T09:24:58.373Z,a_valles,True,BAD_HZ /camera_l/ffmpeg (12.4/30.0) | BAD_HZ /camera_l/depth/image_rect_raw (1.3/30.0),1,Transfer powder using a spoon
+564.139971026,2026-03-11T09:10:43.477Z,v_carrillo,True,,2,Transfer liquid using a funnel
+146.005192674,2026-03-11T09:35:52.177Z,c_becerra,True,,1,Place cotton inside a crystal tube
+251.749857195,2026-03-11T08:52:59.891Z,d_vargas,True,,3,Clean glasses and insert them in Ziploc bags along with a moist wipe
+97.446021006,2026-03-11T08:57:37.334Z,d_vargas,True,,3,Clean glasses and insert them in Ziploc bags along with a moist wipe
+535.175816133,2026-03-11T08:16:10.911Z,e_cabezas,True,,4,Put crystal tubes on their holder and stuff them with colored sticks
+359.654835638,2026-03-11T09:07:09.599Z,d_vargas,True,,3,Transfer powder using a spoon
+96.368967091,2026-03-11T09:40:59.223Z,c_becerra,True,,1,Place cotton inside a crystal tube
+601.24281438,2026-03-11T09:06:03.841Z,e_cabezas,True,,4,Transfer powder using a spoon
+464.753691881,2026-03-11T09:35:33.442Z,a_valles,True,,2,Transfer liquid using a funnel
+626.410874168,2026-03-11T07:39:53.080Z,d_vargas,True,,3,Package a sewing set
+95.86218965,2026-03-11T09:44:06.683Z,c_becerra,True,,1,Place cotton inside a crystal tube
+191.146250197,2026-03-11T07:51:54.024Z,d_vargas,True,,3,Transfer liquid using a funnel
+587.601895876,2026-03-11T08:28:28.006Z,e_cabezas,True,,4,Build Up Box (Mailer)
+521.576582672,2026-03-11T08:08:35.087Z,d_vargas,True,,3,Place cotton inside a crystal tube
+107.21175351,2026-03-11T09:46:48.541Z,c_becerra,True,,1,Place cotton inside a crystal tube
+565.283667076,2026-03-11T09:17:40.648Z,e_cabezas,True,,4,Transfer powder using a spoon
+218.877369484,2026-03-11T08:17:26.391Z,d_vargas,True,,3,Place cotton inside a crystal tube
+255.46106283,2026-03-11T08:21:21.682Z,d_vargas,True,,3,Place cotton inside a crystal tube
+290.399269749,2026-03-11T09:14:09.823Z,d_vargas,True,,3,Transfer powder using a spoon
+101.492853703,2026-03-11T09:49:51.851Z,c_becerra,True,,1,Place cotton inside a crystal tube
+292.463132968,2026-03-11T09:20:09.774Z,d_vargas,True,,3,Transfer powder using a spoon
+391.38031735,2026-03-11T09:45:18.349Z,a_valles,True,,2,Transfer liquid using a funnel
+237.437914574,2026-03-11T09:26:05.626Z,d_vargas,True,,3,Transfer powder using a spoon
+107.554449478,2026-03-11T09:41:44.225Z,n_mora,True,,3,Put crystal tubes on their holder and stuff them with colored sticks
+91.62091818,2026-03-11T09:50:58.626Z,n_mora,True,,3,Put crystal tubes on their holder and stuff them with colored sticks
+101.791041781,2026-03-11T09:52:48.164Z,c_becerra,True,,1,Place cotton inside a crystal tube
+108.732703001,2026-03-11T09:55:37.678Z,c_becerra,True,,1,Place cotton inside a crystal tube
+102.641673364,2026-03-11T09:58:09.539Z,c_becerra,True,,1,Place cotton inside a crystal tube
+601.213948514,2026-03-11T09:50:20.261Z,e_cabezas,True,,4,Transfer powder using a spoon
+539.042055701,2026-03-11T09:55:56.446Z,n_mora,True,,3,Clean dishes with a towel and put them to dry
+312.867361762,2026-03-11T10:06:15.601Z,a_valles,True,BAD_HZ /camera_l/depth/image_rect_raw (1.6/30.0) | BAD_HZ /camera_l/ffmpeg (8.0/30.0),2,Fold Socks
+144.685609388,2026-03-11T10:13:18.751Z,c_becerra,True,,1,Meassure 5 grams of rice and put it on a jar
+266.529469722,2026-03-11T10:12:53.304Z,a_valles,True,BAD_HZ /camera_l/ffmpeg (6.3/30.0) | BAD_HZ /camera_l/depth/image_rect_raw (0.0/30.0),2,Fold Socks
+587.264156609,2026-03-11T10:06:52.569Z,e_cabezas,True,,4,Button a shirt
+187.696232738,2026-03-11T10:16:40.831Z,c_becerra,True,,1,Meassure 5 grams of rice and put it on a jar
+505.825859542,2026-03-11T10:11:18.895Z,n_mora,True,,3,Clean dishes with a towel and put them to dry
+164.64726166,2026-03-11T10:22:49.884Z,n_mora,True,,3,Clean glasses and insert them in Ziploc bags along with a moist wipe
+589.701834926,2026-03-11T10:17:17.872Z,e_cabezas,True,,4,Button a shirt
+138.503348871,2026-03-11T10:27:13.584Z,n_mora,True,,3,Clean glasses and insert them in Ziploc bags along with a moist wipe
+302.45630572,2026-03-11T10:24:30.447Z,a_valles,True,,2,Fold Socks
+119.313851113,2026-03-11T10:31:09.819Z,n_mora,True,,3,Clean glasses and insert them in Ziploc bags along with a moist wipe
+142.256819111,2026-03-11T10:33:39.049Z,a_valles,True,,2,Put crystal tubes on their holder and stuff them with colored sticks
+157.570381878,2026-03-11T10:34:21.439Z,n_mora,True,,3,Clean glasses and insert them in Ziploc bags along with a moist wipe
+550.152326416,2026-03-11T10:28:03.151Z,e_cabezas,True,,4,Button a shirt
+140.480609248,2026-03-11T10:36:37.119Z,a_valles,True,,2,Put crystal tubes on their holder and stuff them with colored sticks
+100.470824118,2026-03-11T10:38:07.187Z,n_mora,True,,3,Clean glasses and insert them in Ziploc bags along with a moist wipe
+105.046923049,2026-03-11T10:39:49.889Z,a_valles,True,,2,Put crystal tubes on their holder and stuff them with colored sticks
+144.488835781,2026-03-11T10:42:29.332Z,a_valles,True,,2,Put crystal tubes on their holder and stuff them with colored sticks
+149.142568436,2026-03-11T10:45:50.792Z,a_valles,True,,2,Put crystal tubes on their holder and stuff them with colored sticks
+628.173319912,2026-03-11T10:38:17.727Z,e_cabezas,True,,4,Button a shirt
+295.974422904,2026-03-11T10:45:55.187Z,n_mora,True,,3,Pack up groceries
+143.682219626,2026-03-11T10:49:08.405Z,a_valles,True,,2,Put crystal tubes on their holder and stuff them with colored sticks
+130.767540048,2026-03-11T10:52:38.880Z,a_valles,True,,2,Put crystal tubes on their holder and stuff them with colored sticks
+155.524722053,2026-03-11T10:55:50.452Z,a_valles,True,,2,Put crystal tubes on their holder and stuff them with colored sticks
+521.662300288,2026-03-11T10:50:18.870Z,e_cabezas,True,BAD_HZ /camera_l/ffmpeg (25.2/30.0) | BAD_HZ /camera_l/depth/image_rect_raw (25.2/30.0),4,Put crystal tubes on their holder and stuff them with colored sticks
+206.607457006,2026-03-11T11:05:25.298Z,a_valles,True,,2,Place cotton inside a crystal tube
+167.294367184,2026-03-11T11:10:13.160Z,a_valles,True,,2,Place cotton inside a crystal tube
+248.51463435,2026-03-11T11:10:50.799Z,n_mora,True,BAD_HZ /camera_r/ffmpeg (0.0/30.0),3,Put pasta in ziploc bags
+577.065438966,2026-03-11T11:05:56.694Z,e_cabezas,True,,4,Button a shirt
+139.55438539,2026-03-11T11:14:35.079Z,a_valles,True,,2,Place cotton inside a crystal tube
+281.525541516,2026-03-11T11:15:48.075Z,n_mora,True,BAD_HZ /camera_r/ffmpeg (0.0/30.0),3,Put pasta in ziploc bags
+581.820728961,2026-03-11T11:16:29.080Z,e_cabezas,True,,4,Put crystal tubes on their holder and stuff them with colored sticks
+196.490093694,2026-03-11T11:26:15.013Z,n_mora,True,BAD_HZ /camera_r/ffmpeg (0.0/30.0),3,Transfer powder using a spoon
+183.349081685,2026-03-11T11:27:06.974Z,e_cabezas,True,,4,Put crystal tubes on their holder and stuff them with colored sticks
+146.610708732,2026-03-11T11:51:00.551Z,c_becerra,True,,1,Meassure 5 grams of rice and put it on a jar
+187.24802465,2026-03-11T11:55:20.838Z,c_becerra,True,,1,Meassure 5 grams of rice and put it on a jar
+136.609937267,2026-03-11T12:10:57.793Z,c_becerra,True,,2,Place cotton inside a crystal tube
+131.065961554,2026-03-11T12:11:41.834Z,v_carrillo,True,,1,Put crystal tubes on their holder and stuff them with colored sticks
+105.654753154,2026-03-11T12:14:00.419Z,c_becerra,True,,2,Place cotton inside a crystal tube
+151.160693706,2026-03-11T12:14:30.036Z,v_carrillo,True,,1,Put crystal tubes on their holder and stuff them with colored sticks
+575.491372625,2026-03-11T12:06:25.199Z,e_cabezas,True,,4,Button a shirt
+355.165749459,2026-03-11T12:10:34.825Z,d_vargas,True,,3,Transfer powder using a spoon
+93.480409584,2026-03-11T12:17:18.679Z,c_becerra,True,,2,Place cotton inside a crystal tube
+156.901343689,2026-03-11T12:17:36.469Z,v_carrillo,True,,1,Put crystal tubes on their holder and stuff them with colored sticks
+331.726632327,2026-03-11T12:17:44.413Z,d_vargas,True,,3,Transfer powder using a spoon
+134.7392947,2026-03-11T12:22:16.471Z,v_carrillo,True,,1,Put crystal tubes on their holder and stuff them with colored sticks
+92.354991129,2026-03-11T12:25:01.744Z,c_becerra,True,,2,Place cotton inside a crystal tube
+133.575419781,2026-03-11T12:25:00.129Z,v_carrillo,True,,1,Put crystal tubes on their holder and stuff them with colored sticks
+560.17437734,2026-03-11T12:17:59.153Z,e_cabezas,True,,4,Button a shirt
+226.301471636,2026-03-11T12:24:40.812Z,d_vargas,True,,3,Transfer powder using a spoon
+143.116948676,2026-03-11T12:27:51.220Z,v_carrillo,True,,1,Put crystal tubes on their holder and stuff them with colored sticks
+90.715396046,2026-03-11T12:30:46.983Z,c_becerra,True,,2,Place cotton inside a crystal tube
+216.571367609,2026-03-11T12:30:23.658Z,d_vargas,True,,3,Place cotton inside a crystal tube
+96.637351265,2026-03-11T12:33:12.937Z,c_becerra,True,,2,Place cotton inside a crystal tube
+243.526510247,2026-03-11T12:34:10.749Z,d_vargas,True,,3,Place cotton inside a crystal tube
+540.202168988,2026-03-11T12:29:14.577Z,e_cabezas,True,,4,Put crystal tubes on their holder and stuff them with colored sticks
+287.430001044,2026-03-11T12:38:45.824Z,d_vargas,True,,3,Place cotton inside a crystal tube
+244.830328604,2026-03-11T12:44:04.157Z,d_vargas,True,,3,Place cotton inside a crystal tube
+540.170450585,2026-03-11T12:39:13.872Z,e_cabezas,True,,4,Button a shirt
+207.093674537,2026-03-11T12:49:25.514Z,d_vargas,True,,3,Place cotton inside a crystal tube
+522.604763213,2026-03-11T12:44:29.049Z,v_carrillo,True,,1,Tie Shoelaces
+325.8547625,2026-03-11T12:48:39.341Z,e_cabezas,True,,4,Button a shirt
+298.93766839,2026-03-11T12:49:17.947Z,c_becerra,True,,2,Transfer powder using a spoon
+208.143235269,2026-03-11T12:53:44.158Z,d_vargas,True,,3,Place cotton inside a crystal tube
+222.521228718,2026-03-11T12:55:13.206Z,c_becerra,True,,2,Transfer powder using a spoon
+313.106105217,2026-03-11T12:53:57.246Z,v_carrillo,True,,1,Tie Shoelaces
+101.1576895,2026-03-11T13:05:38.374Z,c_becerra,True,,2,Built up box (Present)
+193.300224437,2026-03-11T13:08:10.106Z,d_vargas,True,,3,Put crystal tubes on their holder and stuff them with colored sticks
+241.832623403,2026-03-11T13:07:42.408Z,v_carrillo,True,,1,Button a shirt
+175.790572389,2026-03-11T13:12:32.001Z,d_vargas,True,,3,Put crystal tubes on their holder and stuff them with colored sticks
+242.452459582,2026-03-11T13:16:38.166Z,d_vargas,True,,3,Put crystal tubes on their holder and stuff them with colored sticks
+245.708634847,2026-03-11T13:22:09.596Z,d_vargas,True,,3,Put crystal tubes on their holder and stuff them with colored sticks
+98.310507307,2026-03-11T13:27:36.617Z,c_becerra,True,,2,Built up box (Present)
+128.701802433,2026-03-11T13:27:23.280Z,d_vargas,True,,3,Put crystal tubes on their holder and stuff them with colored sticks
+142.610511881,2026-03-11T13:29:40.182Z,v_carrillo,True,,1,Put crystal tubes on their holder and stuff them with colored sticks
+565.119731572,2026-03-11T13:22:42.096Z,e_cabezas,True,,4,Button a shirt
+128.742235218,2026-03-11T13:32:45.150Z,v_carrillo,True,,1,Put crystal tubes on their holder and stuff them with colored sticks
+136.992943701,2026-03-11T13:35:25.687Z,v_carrillo,True,,1,Put crystal tubes on their holder and stuff them with colored sticks
+411.942465729,2026-03-11T13:30:42.204Z,c_becerra,True,,2,Button a shirt
+329.630640952,2026-03-11T13:32:51.702Z,d_vargas,True,,3,Clean glasses and insert them in Ziploc bags along with a moist wipe
+131.12296786,2026-03-11T13:39:21.181Z,v_carrillo,True,,1,Put crystal tubes on their holder and stuff them with colored sticks
+584.37903107,2026-03-11T13:32:47.779Z,e_cabezas,True,,4,Button a shirt
+112.381786232,2026-03-11T13:42:03.962Z,v_carrillo,True,,1,Put crystal tubes on their holder and stuff them with colored sticks
+263.28777715,2026-03-11T13:40:03.908Z,d_vargas,True,,3,Clean glasses and insert them in Ziploc bags along with a moist wipe
+120.03707109,2026-03-11T13:44:46.116Z,v_carrillo,True,,1,Put crystal tubes on their holder and stuff them with colored sticks
+379.69688066,2026-03-11T13:40:30.999Z,c_becerra,True,,2,Tie Shoelaces
+169.732987559,2026-03-11T13:45:44.601Z,d_vargas,True,,3,Clean glasses and insert them in Ziploc bags along with a moist wipe
+119.492387193,2026-03-11T13:47:21.879Z,v_carrillo,True,,1,Put crystal tubes on their holder and stuff them with colored sticks
+140.929792133,2026-03-11T13:49:57.509Z,v_carrillo,True,,1,Put crystal tubes on their holder and stuff them with colored sticks
+531.73787207,2026-03-11T13:43:00.283Z,e_cabezas,True,,4,Button a shirt
+210.47477695,2026-03-11T13:50:03.726Z,d_vargas,True,,3,Clean glasses and insert them in Ziploc bags along with a moist wipe
+387.784666124,2026-03-11T13:47:12.470Z,c_becerra,True,,2,Tie Shoelaces
+121.222076243,2026-03-11T13:52:56.622Z,v_carrillo,True,,1,Put crystal tubes on their holder and stuff them with colored sticks
+120.091413095,2026-03-11T13:55:23.495Z,v_carrillo,True,,1,Put crystal tubes on their holder and stuff them with colored sticks
+197.075806305,2026-03-11T13:54:42.328Z,d_vargas,True,,3,Clean glasses and insert them in Ziploc bags along with a moist wipe
+209.946839121,2026-03-11T13:55:35.190Z,c_becerra,True,,2,Meassure 5 grams of rice and put it on a jar
+461.37230014,2026-03-11T13:52:35.785Z,e_cabezas,True,,4,Button a shirt
+199.694100763,2026-03-11T14:06:24.452Z,c_becerra,True,,2,Meassure 5 grams of rice and put it on a jar
+192.776088354,2026-03-11T14:08:16.077Z,d_vargas,True,,3,Meassure 5 grams of rice and put it on a jar
+173.588659063,2026-03-11T14:10:34.402Z,c_becerra,True,,2,Meassure 5 grams of rice and put it on a jar
+96.710643955,2026-03-11T14:12:32.081Z,d_vargas,True,,3,Meassure 5 grams of rice and put it on a jar
+447.10384892,2026-03-11T14:05:58.209Z,v_carrillo,True,,1,Tie Shoelaces
+580.606216604,2026-03-11T14:05:39.444Z,e_cabezas,True,,4,Put crystal tubes on their holder and stuff them with colored sticks
+181.94728803,2026-03-11T14:14:31.662Z,c_becerra,True,,2,Meassure 5 grams of rice and put it on a jar
+163.514603008,2026-03-11T14:14:59.173Z,d_vargas,True,,3,Meassure 5 grams of rice and put it on a jar
+146.199364145,2026-03-11T14:18:51.888Z,d_vargas,True,,3,Meassure 5 grams of rice and put it on a jar
+148.259577725,2026-03-11T14:18:57.938Z,c_becerra,True,,2,Meassure 5 grams of rice and put it on a jar
+404.253028348,2026-03-11T14:14:18.122Z,v_carrillo,True,,1,Tie Shoelaces
+133.375960472,2026-03-11T14:22:36.950Z,c_becerra,True,,2,Meassure 5 grams of rice and put it on a jar
+181.082787136,2026-03-11T14:21:59.371Z,d_vargas,True,,3,Meassure 5 grams of rice and put it on a jar
+601.981978917,2026-03-11T14:16:08.042Z,e_cabezas,True,,4,Put crystal tubes on their holder and stuff them with colored sticks
+133.750214187,2026-03-11T14:25:38.175Z,d_vargas,True,,3,Meassure 5 grams of rice and put it on a jar
+143.775647742,2026-03-11T14:25:39.530Z,c_becerra,True,,2,Meassure 5 grams of rice and put it on a jar
+406.23159684,2026-03-11T14:21:39.805Z,v_carrillo,True,,1,Tie Shoelaces
+141.775809511,2026-03-11T14:29:15.706Z,d_vargas,True,,3,Meassure 5 grams of rice and put it on a jar
+98.506738589,2026-03-11T14:30:06.709Z,c_becerra,True,,2,Put crystal tubes on their holder and stuff them with colored sticks
+98.543375336,2026-03-11T14:32:31.674Z,c_becerra,True,,2,Put crystal tubes on their holder and stuff them with colored sticks
+123.416525064,2026-03-11T14:32:26.407Z,d_vargas,True,,3,Meassure 5 grams of rice and put it on a jar
+97.691572746,2026-03-11T14:35:06.567Z,c_becerra,True,,2,Put crystal tubes on their holder and stuff them with colored sticks
+157.991007124,2026-03-11T14:34:34.223Z,v_carrillo,True,,1,Place cotton inside a crystal tube
+145.000406723,2026-03-11T14:35:40.841Z,d_vargas,True,,3,Meassure 5 grams of rice and put it on a jar
+530.480805804,2026-03-11T14:27:42.777Z,e_cabezas,True,,4,Button a shirt
+93.252056709,2026-03-11T14:40:10.781Z,d_vargas,True,,3,Meassure 5 grams of rice and put it on a jar
+151.142480357,2026-03-11T14:39:47.028Z,v_carrillo,True,,1,Place cotton inside a crystal tube
+161.657864585,2026-03-11T14:41:54.439Z,d_vargas,True,,3,Meassure 5 grams of rice and put it on a jar
+155.469706754,2026-03-11T14:44:01.038Z,v_carrillo,True,,1,Place cotton inside a crystal tube
+134.46008838,2026-03-11T14:45:23.723Z,d_vargas,True,,3,Meassure 5 grams of rice and put it on a jar
+548.812040086,2026-03-11T14:37:50.063Z,e_cabezas,True,,4,Meassure 5 grams of rice and put it on a jar
+157.901875717,2026-03-11T14:47:45.901Z,d_vargas,True,,3,Meassure 5 grams of rice and put it on a jar
+141.11125161,2026-03-11T14:52:00.993Z,d_vargas,True,,3,Meassure 5 grams of rice and put it on a jar
+109.750494473,2026-03-11T14:54:07.533Z,v_carrillo,True,,1,Place cotton inside a crystal tube
+431.06998998,2026-03-11T14:48:33.022Z,e_cabezas,True,,4,Button a shirt
+130.211132595,2026-03-11T15:11:31.447Z,p_alvarez,True,,4,Put crystal tubes on their holder and stuff them with colored sticks
+254.359834859,2026-03-11T15:11:07.353Z,n_mora,True,BAD_HZ /pika_pose_r (0.0/100.0),2,Meassure 5 grams of rice and put it on a jar
+448.851219457,2026-03-11T15:07:40.217Z,d_vargas,True,,1,Fold towels
+168.898727992,2026-03-11T15:16:58.063Z,c_cordova,True,,3,Package a sewing set
+148.417332112,2026-03-11T15:18:06.179Z,p_alvarez,True,,4,Put crystal tubes on their holder and stuff them with colored sticks
+218.810746515,2026-03-11T15:16:52.946Z,n_mora,True,BAD_HZ /pika_pose_r (0.0/100.0),2,Meassure 5 grams of rice and put it on a jar
+141.938636313,2026-03-11T15:22:23.103Z,c_cordova,True,,3,Package a sewing set
+208.975737767,2026-03-11T15:22:29.033Z,n_mora,True,BAD_HZ /pika_pose_r (0.0/100.0),2,Meassure 5 grams of rice and put it on a jar
+260.689540703,2026-03-11T15:21:42.043Z,p_alvarez,True,,4,Meassure 5 grams of rice and put it on a jar
+171.130098168,2026-03-11T15:26:28.802Z,c_cordova,True,,3,Package a sewing set
+214.418198345,2026-03-11T15:28:21.010Z,n_mora,True,BAD_HZ /pika_pose_r (0.0/100.0),2,Meassure 5 grams of rice and put it on a jar
+660.426951777,2026-03-11T15:20:14.963Z,d_vargas,True,,1,Tie Shoelaces
+175.711572874,2026-03-11T15:30:34.764Z,c_cordova,True,,3,Package a sewing set
+199.195886812,2026-03-11T15:32:32.790Z,d_vargas,True,,1,Fold a T Shirt
+505.517850227,2026-03-11T15:27:58.809Z,p_alvarez,True,,4,Tie Shoelaces
+92.664911632,2026-03-11T15:36:16.322Z,n_mora,True,BAD_HZ /pika_pose_r (0.0/100.0),2,Put crystal tubes on their holder and stuff them with colored sticks
+166.14484552,2026-03-11T15:35:21.441Z,c_cordova,True,,3,Package a sewing set
+211.610476826,2026-03-11T15:38:24.065Z,p_alvarez,True,,4,Pack up Clothes in a paper bag
+185.462506626,2026-03-11T15:39:16.980Z,c_cordova,True,,3,Package a sewing set
+95.315644748,2026-03-11T15:42:15.519Z,n_mora,True,BAD_HZ /pika_pose_r (0.0/100.0),2,Put crystal tubes on their holder and stuff them with colored sticks
+160.070715662,2026-03-11T15:44:32.984Z,c_cordova,True,,3,Package a sewing set
+699.539150279,2026-03-11T15:36:33.901Z,d_vargas,True,,1,Button a shirt
+108.650756742,2026-03-11T15:47:59.221Z,n_mora,True,BAD_HZ /pika_pose_r (0.0/100.0),2,Put crystal tubes on their holder and stuff them with colored sticks
+174.827837564,2026-03-11T15:48:11.116Z,c_cordova,True,,3,Package a sewing set
+204.714746044,2026-03-11T15:49:24.285Z,d_vargas,True,,1,Button a shirt
+110.287076571,2026-03-11T15:51:13.832Z,n_mora,True,BAD_HZ /pika_pose_r (0.0/100.0),2,Put crystal tubes on their holder and stuff them with colored sticks
+90.047416828,2026-03-11T15:54:30.492Z,n_mora,True,BAD_HZ /pika_pose_r (0.0/100.0),2,Put crystal tubes on their holder and stuff them with colored sticks
+191.701305622,2026-03-11T15:52:49.960Z,c_cordova,True,,3,Package a sewing set
+126.912656905,2026-03-11T15:56:38.148Z,p_alvarez,True,BAD_HZ /pika_pose_l (0.0/100.0),4,Put crystal tubes on their holder and stuff them with colored sticks
+231.117240538,2026-03-11T15:55:12.797Z,d_vargas,True,,1,Button a shirt
+159.071492237,2026-03-11T15:57:22.933Z,c_cordova,True,,3,Package a sewing set
+130.675710659,2026-03-11T16:02:10.765Z,p_alvarez,True,,4,Put crystal tubes on their holder and stuff them with colored sticks
+107.203391358,2026-03-11T16:07:18.702Z,p_alvarez,True,,4,Put crystal tubes on their holder and stuff them with colored sticks
+152.232104016,2026-03-11T16:09:43.793Z,c_cordova,True,,3,Package a sewing set
+242.492750556,2026-03-11T16:08:07.627Z,d_vargas,True,,1,Clean glasses and insert them in Ziploc bags along with a moist wipe
+317.108895097,2026-03-11T16:08:46.188Z,n_mora,True,BAD_HZ /pika_pose_r (0.0/100.0),2,Transfer powder using a spoon
+162.377129451,2026-03-11T16:12:56.075Z,c_cordova,True,,3,Package a sewing set
+284.117558681,2026-03-11T16:13:29.256Z,d_vargas,True,,1,Clean glasses and insert them in Ziploc bags along with a moist wipe
+127.53202051,2026-03-11T16:16:40.598Z,c_cordova,True,,3,Package a sewing set
+374.426319901,2026-03-11T16:13:34.952Z,p_alvarez,True,,4,Transfer powder using a spoon
+134.902448908,2026-03-11T16:19:47.905Z,c_cordova,True,,3,Package a sewing set
+228.498288679,2026-03-11T16:19:25.834Z,d_vargas,True,,1,Clean glasses and insert them in Ziploc bags along with a moist wipe
+245.552512161,2026-03-11T16:20:43.654Z,n_mora,True,,2,Transfer powder using a spoon
+152.53380039,2026-03-11T16:22:44.516Z,c_cordova,True,,3,Package a sewing set
+311.294070572,2026-03-11T16:21:25.521Z,p_alvarez,True,,4,Transfer powder using a spoon
+137.965335666,2026-03-11T16:26:49.176Z,c_cordova,True,,3,Package a sewing set
+310.093910308,2026-03-11T16:24:33.172Z,d_vargas,True,,1,Clean glasses and insert them in Ziploc bags along with a moist wipe
+262.953155075,2026-03-11T16:29:15.059Z,n_mora,True,,2,Transfer powder using a spoon
+299.319301062,2026-03-11T16:31:17.278Z,d_vargas,True,,1,Clean glasses and insert them in Ziploc bags along with a moist wipe
+291.359708212,2026-03-11T16:33:02.615Z,c_cordova,True,,3,Meassure 5 grams of rice and put it on a jar
+220.234293152,2026-03-11T16:34:57.115Z,n_mora,True,,2,Transfer powder using a spoon
+444.825011482,2026-03-11T16:32:29.061Z,p_alvarez,True,,4,Tie Shoelaces
+143.64974256,2026-03-11T16:39:35.709Z,c_cordova,True,,3,Meassure 5 grams of rice and put it on a jar
+292.267947528,2026-03-11T16:37:59.939Z,d_vargas,True,,1,Clean glasses and insert them in Ziploc bags along with a moist wipe
+207.089959082,2026-03-11T16:41:40.521Z,n_mora,True,,2,Place cotton inside a crystal tube
+212.062867358,2026-03-11T16:42:48.524Z,p_alvarez,True,,4,Put hooks on shower courtain
+280.035992967,2026-03-11T16:42:35.144Z,c_cordova,True,,3,Meassure 5 grams of rice and put it on a jar
+108.998112096,2026-03-11T16:46:01.799Z,n_mora,True,,2,Place cotton inside a crystal tube
+258.676497896,2026-03-11T16:44:30.137Z,d_vargas,True,,1,Clean glasses and insert them in Ziploc bags along with a moist wipe
+160.322372595,2026-03-11T16:49:00.515Z,n_mora,True,,2,Place cotton inside a crystal tube
+236.088428034,2026-03-11T16:48:38.871Z,c_cordova,True,,3,Meassure 5 grams of rice and put it on a jar
+108.784607944,2026-03-11T16:52:16.839Z,n_mora,True,,2,Place cotton inside a crystal tube
+279.677474998,2026-03-11T16:49:08.552Z,p_alvarez,True,,4,Meassure 5 grams of rice and put it on a jar
+267.034931036,2026-03-11T16:50:20.037Z,d_vargas,True,,1,Clean glasses and insert them in Ziploc bags along with a moist wipe
+154.071712077,2026-03-11T16:54:37.627Z,c_cordova,True,,3,Meassure 5 grams of rice and put it on a jar
+189.627717454,2026-03-11T16:55:08.779Z,p_alvarez,True,,4,Meassure 5 grams of rice and put it on a jar
+159.690378889,2026-03-11T16:58:01.487Z,c_cordova,True,,3,Meassure 5 grams of rice and put it on a jar
+161.571312488,2026-03-11T16:59:12.789Z,p_alvarez,True,,4,Meassure 5 grams of rice and put it on a jar
+158.587084239,2026-03-11T17:01:42.370Z,c_cordova,True,,3,Meassure 5 grams of rice and put it on a jar
+145.16290222,2026-03-11T17:06:46.871Z,c_cordova,True,,3,Meassure 5 grams of rice and put it on a jar
+209.968652948,2026-03-11T17:07:45.003Z,p_alvarez,True,,4,Meassure 5 grams of rice and put it on a jar
+136.945918129,2026-03-11T17:12:35.597Z,p_alvarez,True,,4,Put crystal tubes on their holder and stuff them with colored sticks
+146.424886758,2026-03-11T17:15:29.647Z,p_alvarez,True,,4,Put crystal tubes on their holder and stuff them with colored sticks
+152.87489294,2026-03-11T17:18:25.337Z,p_alvarez,True,,4,Put crystal tubes on their holder and stuff them with colored sticks
+143.065094811,2026-03-11T17:26:33.754Z,a_gabriel,True,,3,Meassure 5 grams of rice and put it on a jar
+349.765077169,2026-03-11T17:23:05.941Z,p_alvarez,True,,4,Transfer powder using a spoon
+191.063801918,2026-03-11T17:29:47.395Z,a_gabriel,True,,3,Meassure 5 grams of rice and put it on a jar
+189.308598093,2026-03-11T17:35:25.184Z,a_gabriel,True,,3,Meassure 5 grams of rice and put it on a jar
+159.178166223,2026-03-11T17:39:52.965Z,a_gabriel,True,,3,Meassure 5 grams of rice and put it on a jar
+187.134269342,2026-03-11T17:43:15.994Z,a_gabriel,True,,3,Meassure 5 grams of rice and put it on a jar
+178.654912691,2026-03-11T17:47:14.766Z,a_gabriel,True,,3,Meassure 5 grams of rice and put it on a jar
+155.565117369,2026-03-11T17:52:24.284Z,a_gabriel,True,,3,Meassure 5 grams of rice and put it on a jar
+156.324640368,2026-03-11T18:35:46.429Z,a_gabriel,True,,3,Meassure 5 grams of rice and put it on a jar
+135.086514408,2026-03-11T18:38:56.433Z,a_gabriel,True,,3,Meassure 5 grams of rice and put it on a jar
+118.806409543,2026-03-11T18:42:04.732Z,a_gabriel,True,,3,Meassure 5 grams of rice and put it on a jar
+143.756136412,2026-03-11T18:44:45.950Z,a_gabriel,True,,3,Meassure 5 grams of rice and put it on a jar
+124.533111979,2026-03-11T18:47:56.344Z,a_gabriel,True,,3,Meassure 5 grams of rice and put it on a jar
+151.262655337,2026-03-11T18:51:32.827Z,a_gabriel,True,,3,Meassure 5 grams of rice and put it on a jar
+141.781155354,2026-03-11T18:54:46.285Z,a_gabriel,True,,3,Meassure 5 grams of rice and put it on a jar
+132.728252675,2026-03-11T18:57:47.768Z,a_gabriel,True,,3,Meassure 5 grams of rice and put it on a jar
+133.620846822,2026-03-11T19:02:56.628Z,a_gabriel,True,,3,Meassure 5 grams of rice and put it on a jar
+106.136303014,2026-03-11T19:06:57.376Z,a_gabriel,True,,3,Meassure 5 grams of rice and put it on a jar
+142.799992654,2026-03-11T19:09:16.323Z,a_gabriel,True,,3,Meassure 5 grams of rice and put it on a jar
+137.230535947,2026-03-11T19:12:44.557Z,a_gabriel,True,,3,Meassure 5 grams of rice and put it on a jar
+145.48472974,2026-03-11T19:15:57.033Z,a_gabriel,True,,3,Meassure 5 grams of rice and put it on a jar
+116.428282609,2026-03-11T19:19:03.939Z,a_gabriel,True,,3,Meassure 5 grams of rice and put it on a jar
+135.732292876,2026-03-11T19:21:48.439Z,a_gabriel,True,,3,Meassure 5 grams of rice and put it on a jar
+134.66303766,2026-03-11T19:24:37.794Z,a_gabriel,True,,3,Meassure 5 grams of rice and put it on a jar
+128.066800814,2026-03-11T19:27:45.548Z,a_gabriel,True,,3,Meassure 5 grams of rice and put it on a jar
+115.115095617,2026-03-11T19:31:51.968Z,a_gabriel,True,,3,Meassure 5 grams of rice and put it on a jar
+137.884654377,2026-03-11T19:34:15.347Z,a_gabriel,True,,3,Meassure 5 grams of rice and put it on a jar
+143.885594341,2026-03-11T19:37:12.343Z,a_gabriel,True,,3,Meassure 5 grams of rice and put it on a jar
+111.931066169,2026-03-11T19:40:21.297Z,a_gabriel,True,,3,Meassure 5 grams of rice and put it on a jar
+124.857509936,2026-03-11T19:43:00.044Z,a_gabriel,True,,3,Meassure 5 grams of rice and put it on a jar
+124.07514042,2026-03-11T19:45:55.054Z,a_gabriel,True,,3,Meassure 5 grams of rice and put it on a jar
+128.104076167,2026-03-11T19:49:08.009Z,a_gabriel,True,,3,Meassure 5 grams of rice and put it on a jar
+110.728757571,2026-03-11T19:51:57.677Z,a_gabriel,True,,3,Meassure 5 grams of rice and put it on a jar
+106.106753141,2026-03-11T19:57:32.593Z,a_gabriel,True,,3,Meassure 5 grams of rice and put it on a jar
+117.100948047,2026-03-11T20:00:16.460Z,a_gabriel,True,,3,Meassure 5 grams of rice and put it on a jar
+275.133144501,2026-03-11T20:12:49.599Z,p_fernando,True,,3,Thread a needle
+294.898516384,2026-03-11T20:19:57.189Z,p_fernando,True,,3,Thread a needle
+253.166909491,2026-03-11T20:28:22.629Z,p_fernando,True,,3,Thread a needle
+275.325710792,2026-03-11T20:36:42.630Z,p_fernando,True,,3,Meassure 5 grams of rice and put it on a jar
+138.777648312,2026-03-11T20:44:24.300Z,p_alvarez,True,,4,Build Up Box (Mailer)
+118.139975901,2026-03-11T20:47:57.463Z,p_alvarez,True,,4,Build Up Box (Mailer)
+198.404243131,2026-03-11T20:46:40.240Z,p_fernando,True,,3,Meassure 5 grams of rice and put it on a jar
+132.403966968,2026-03-11T20:51:26.880Z,p_alvarez,True,,4,Put crystal tubes on their holder and stuff them with colored sticks
+175.999324044,2026-03-11T20:51:12.716Z,p_fernando,True,,3,Meassure 5 grams of rice and put it on a jar
+129.353232017,2026-03-11T20:54:22.617Z,p_alvarez,True,,4,Put crystal tubes on their holder and stuff them with colored sticks
+173.339404537,2026-03-11T20:56:38.580Z,p_fernando,True,,3,Meassure 5 grams of rice and put it on a jar
+142.622182168,2026-03-11T20:57:17.300Z,p_alvarez,True,,4,Put crystal tubes on their holder and stuff them with colored sticks
+92.300690311,2026-03-11T21:00:36.013Z,p_alvarez,True,,4,Put crystal tubes on their holder and stuff them with colored sticks
+160.090424985,2026-03-11T21:07:06.034Z,p_fernando,True,,3,Meassure 5 grams of rice and put it on a jar
+197.88371163,2026-03-11T21:06:42.767Z,p_alvarez,True,,4,Meassure 5 grams of rice and put it on a jar
+156.697196101,2026-03-11T21:10:49.934Z,p_fernando,True,,3,Meassure 5 grams of rice and put it on a jar
+191.311313573,2026-03-11T21:11:21.427Z,p_alvarez,True,,4,Meassure 5 grams of rice and put it on a jar
+136.607622199,2026-03-11T21:14:52.289Z,p_fernando,True,,3,Meassure 5 grams of rice and put it on a jar
+206.753992325,2026-03-11T21:15:56.613Z,p_alvarez,True,,4,Meassure 5 grams of rice and put it on a jar
+136.633066848,2026-03-11T21:18:57.133Z,p_fernando,True,,3,Meassure 5 grams of rice and put it on a jar
+130.248465246,2026-03-11T21:22:29.634Z,p_fernando,True,,3,Meassure 5 grams of rice and put it on a jar
+104.171339037,2026-03-11T21:26:17.627Z,p_fernando,True,,3,Meassure 5 grams of rice and put it on a jar
+288.508720194,2026-03-11T21:23:01.049Z,p_alvarez,True,,4,Tie Shoelaces
+113.517556433,2026-03-12T07:06:58.274Z,l_aguilera,True,,4,Put crystal tubes on their holder and stuff them with colored sticks
+250.558899019,2026-03-12T07:08:30.112Z,c_becerra,True,,3,Package a sewing set
+163.570555614,2026-03-12T07:13:17.806Z,a_valles,True,,2,Place cotton inside a crystal tube
+197.946168549,2026-03-12T07:13:18.189Z,c_becerra,True,,3,Package a sewing set
+363.622017151,2026-03-12T07:10:46.193Z,d_lopez,True,,1,Clean glasses and insert them in Ziploc bags along with a moist wipe
+91.314279587,2026-03-12T07:16:49.996Z,l_aguilera,True,,4,Put crystal tubes on their holder and stuff them with colored sticks
+187.754548124,2026-03-12T07:17:13.740Z,a_valles,True,,2,Place cotton inside a crystal tube
+205.947404879,2026-03-12T07:17:00.040Z,c_becerra,True,,3,Package a sewing set
+162.356121005,2026-03-12T07:21:33.399Z,a_valles,True,,2,Place cotton inside a crystal tube
+193.72997607,2026-03-12T07:21:46.277Z,c_becerra,True,,3,Package a sewing set
+406.803100953,2026-03-12T07:18:28.371Z,d_lopez,True,,1,Clean glasses and insert them in Ziploc bags along with a moist wipe
+91.832079765,2026-03-12T07:24:59.838Z,l_aguilera,True,,4,Put crystal tubes on their holder and stuff them with colored sticks
+139.874155546,2026-03-12T07:25:32.733Z,a_valles,True,,2,Place cotton inside a crystal tube
+162.365413304,2026-03-12T07:25:22.776Z,c_becerra,True,,3,Package a sewing set
+166.113151904,2026-03-12T07:28:40.421Z,c_becerra,True,,3,Package a sewing set
+122.290444832,2026-03-12T07:30:13.746Z,l_aguilera,True,,4,Meassure 5 grams of rice and put it on a jar
+137.110871816,2026-03-12T07:31:31.972Z,a_valles,True,,2,Put crystal tubes on their holder and stuff them with colored sticks
+355.439278032,2026-03-12T07:27:42.836Z,d_lopez,True,,1,Clean glasses and insert them in Ziploc bags along with a moist wipe
+134.075898451,2026-03-12T07:32:47.066Z,l_aguilera,True,,4,Meassure 5 grams of rice and put it on a jar
+190.349142851,2026-03-12T07:32:07.680Z,c_becerra,True,,3,Meassure 5 grams of rice and put it on a jar
+132.149786259,2026-03-12T07:34:21.222Z,a_valles,True,,2,Put crystal tubes on their holder and stuff them with colored sticks
+113.553437928,2026-03-12T07:35:53.515Z,c_becerra,True,,3,Meassure 5 grams of rice and put it on a jar
+131.147398989,2026-03-12T07:35:36.172Z,l_aguilera,True,,4,Meassure 5 grams of rice and put it on a jar
+99.879733867,2026-03-12T07:38:15.198Z,c_becerra,True,,3,Meassure 5 grams of rice and put it on a jar
+145.434019483,2026-03-12T07:37:22.817Z,a_valles,True,,2,Put crystal tubes on their holder and stuff them with colored sticks
+131.259960983,2026-03-12T07:38:26.422Z,l_aguilera,True,,4,Meassure 5 grams of rice and put it on a jar
+355.087794702,2026-03-12T07:35:28.892Z,d_lopez,True,,1,Clean glasses and insert them in Ziploc bags along with a moist wipe
+100.320505015,2026-03-12T07:40:26.671Z,c_becerra,True,,3,Meassure 5 grams of rice and put it on a jar
+110.867203555,2026-03-12T07:41:00.376Z,l_aguilera,True,,4,Meassure 5 grams of rice and put it on a jar
+140.573022517,2026-03-12T07:40:38.957Z,a_valles,True,,2,Put crystal tubes on their holder and stuff them with colored sticks
+98.403742817,2026-03-12T07:42:37.274Z,c_becerra,True,,3,Meassure 5 grams of rice and put it on a jar
+119.776447494,2026-03-12T07:43:29.122Z,l_aguilera,True,,4,Meassure 5 grams of rice and put it on a jar
+103.456976964,2026-03-12T07:44:46.523Z,c_becerra,True,,3,Meassure 5 grams of rice and put it on a jar
+192.509076443,2026-03-12T07:43:41.818Z,a_valles,True,,2,Put crystal tubes on their holder and stuff them with colored sticks
+107.756335937,2026-03-12T07:46:08.485Z,l_aguilera,True,,4,Meassure 5 grams of rice and put it on a jar
+111.758380075,2026-03-12T07:47:01.271Z,c_becerra,True,,3,Meassure 5 grams of rice and put it on a jar
+318.808690151,2026-03-12T07:43:39.064Z,d_lopez,True,,1,Clean glasses and insert them in Ziploc bags along with a moist wipe
+156.92438025,2026-03-12T07:47:41.439Z,a_valles,True,,2,Put crystal tubes on their holder and stuff them with colored sticks
+123.214004364,2026-03-12T07:48:21.030Z,l_aguilera,True,,4,Meassure 5 grams of rice and put it on a jar
+93.319440118,2026-03-12T07:49:25.320Z,c_becerra,True,,3,Meassure 5 grams of rice and put it on a jar
+105.712193351,2026-03-12T07:50:44.896Z,l_aguilera,True,,4,Meassure 5 grams of rice and put it on a jar
+103.156488088,2026-03-12T07:51:06.243Z,a_valles,True,,2,Put crystal tubes on their holder and stuff them with colored sticks
+100.278450703,2026-03-12T07:51:31.650Z,c_becerra,True,,3,Meassure 5 grams of rice and put it on a jar
+124.174316977,2026-03-12T07:53:04.393Z,l_aguilera,True,,4,Meassure 5 grams of rice and put it on a jar
+96.060026311,2026-03-12T07:53:47.780Z,c_becerra,True,,3,Meassure 5 grams of rice and put it on a jar
+155.383036437,2026-03-12T07:53:18.326Z,a_valles,True,,2,Put crystal tubes on their holder and stuff them with colored sticks
+377.7001182,2026-03-12T07:50:20.201Z,d_lopez,True,,1,Clean glasses and insert them in Ziploc bags along with a moist wipe
+93.171048548,2026-03-12T07:55:49.039Z,c_becerra,True,,3,Meassure 5 grams of rice and put it on a jar
+127.613074454,2026-03-12T07:56:38.546Z,a_valles,True,,2,Put crystal tubes on their holder and stuff them with colored sticks
+106.137309135,2026-03-12T07:57:55.184Z,c_becerra,True,,3,Meassure 5 grams of rice and put it on a jar
+105.560930924,2026-03-12T08:08:11.090Z,d_lopez,True,,1,Put crystal tubes on their holder and stuff them with colored sticks
+116.655593326,2026-03-12T08:08:19.962Z,l_aguilera,True,,4,Built up box (Present)
+90.057807512,2026-03-12T08:10:46.293Z,d_lopez,True,,1,Put crystal tubes on their holder and stuff them with colored sticks
+269.1043968,2026-03-12T08:07:31.870Z,a_valles,True,,2,Transfer powder using a spoon
+111.322897123,2026-03-12T08:11:00.980Z,l_aguilera,True,,4,Built up box (Present)
+90.081335846,2026-03-12T08:13:32.166Z,l_aguilera,True,,4,Built up box (Present)
+249.507645673,2026-03-12T08:12:52.451Z,a_valles,True,,2,Transfer powder using a spoon
+108.500818922,2026-03-12T08:15:32.416Z,n_mora,True,,3,Meassure 5 grams of rice and put it on a jar
+93.522636235,2026-03-12T08:17:57.401Z,d_lopez,True,,1,Put crystal tubes on their holder and stuff them with colored sticks
+91.659450184,2026-03-12T08:19:25.027Z,l_aguilera,True,,4,Built up box (Present)
+101.292560118,2026-03-12T08:21:40.701Z,l_aguilera,True,,4,Built up box (Present)
+295.992967334,2026-03-12T08:18:15.077Z,a_valles,True,,2,Transfer powder using a spoon
+132.059067964,2026-03-12T08:21:23.886Z,n_mora,True,,3,Meassure 5 grams of rice and put it on a jar
+90.266734982,2026-03-12T08:24:13.125Z,d_lopez,True,,1,Put crystal tubes on their holder and stuff them with colored sticks
+111.776613293,2026-03-12T08:24:01.520Z,n_mora,True,,3,Meassure 5 grams of rice and put it on a jar
+97.660838577,2026-03-12T08:26:52.495Z,d_lopez,True,,1,Put crystal tubes on their holder and stuff them with colored sticks
+124.711720758,2026-03-12T08:26:55.642Z,n_mora,True,,3,Meassure 5 grams of rice and put it on a jar
+277.270736801,2026-03-12T08:24:27.693Z,a_valles,True,,2,Transfer powder using a spoon
+100.277180377,2026-03-12T08:29:33.087Z,d_lopez,True,,1,Put crystal tubes on their holder and stuff them with colored sticks
+123.581878777,2026-03-12T08:30:19.806Z,n_mora,True,,3,Meassure 5 grams of rice and put it on a jar
+160.764915683,2026-03-12T08:31:05.148Z,l_aguilera,True,,4,Transfer powder using a spoon
+101.82151664,2026-03-12T08:36:30.487Z,l_aguilera,True,,4,Fold Pants
+313.440508466,2026-03-12T08:33:52.528Z,a_valles,True,,2,Meassure 5 grams of rice and put it on a jar
+116.621460213,2026-03-12T08:37:46.133Z,n_mora,True,,3,Meassure 5 grams of rice and put it on a jar
+97.543160649,2026-03-12T08:38:49.677Z,d_lopez,True,,1,Put crystal tubes on their holder and stuff them with colored sticks
+94.412008433,2026-03-12T08:39:28.234Z,l_aguilera,True,,4,Fold Pants
+95.959353863,2026-03-12T08:40:09.063Z,n_mora,True,,3,Meassure 5 grams of rice and put it on a jar
+107.703351012,2026-03-12T08:42:08.596Z,l_aguilera,True,,4,Fold Pants
+141.466760882,2026-03-12T08:43:07.410Z,n_mora,True,,3,Meassure 5 grams of rice and put it on a jar
+293.348644927,2026-03-12T08:42:15.529Z,a_valles,True,,2,Meassure 5 grams of rice and put it on a jar
+208.797451198,2026-03-12T08:44:03.289Z,d_lopez,True,,1,Place cotton inside a crystal tube
+92.35680892,2026-03-12T08:47:15.279Z,l_aguilera,True,,4,Put crystal tubes on their holder and stuff them with colored sticks
+92.057155361,2026-03-12T08:49:50.784Z,n_mora,True,,3,Meassure 5 grams of rice and put it on a jar
+172.952370614,2026-03-12T08:49:33.174Z,d_lopez,True,,1,Place cotton inside a crystal tube
+259.724450284,2026-03-12T08:48:22.946Z,a_valles,True,,2,Meassure 5 grams of rice and put it on a jar
+93.822254016,2026-03-12T08:52:56.123Z,n_mora,True,,3,Meassure 5 grams of rice and put it on a jar
+157.589942745,2026-03-12T08:55:30.567Z,d_lopez,True,,1,Place cotton inside a crystal tube
+259.597275101,2026-03-12T08:54:20.978Z,a_valles,True,,2,Meassure 5 grams of rice and put it on a jar
+97.426680992,2026-03-12T08:57:30.833Z,n_mora,True,,3,Meassure 5 grams of rice and put it on a jar
+111.717007072,2026-03-12T09:00:04.327Z,d_lopez,True,,1,Place cotton inside a crystal tube
+97.412412642,2026-03-12T09:08:11.830Z,l_aguilera,True,,4,Put crystal tubes on their holder and stuff them with colored sticks
+250.834970538,2026-03-12T09:05:50.650Z,a_valles,True,,2,Clean dishes with a towel and put them to dry
+162.702067649,2026-03-12T09:08:22.768Z,d_lopez,True,,1,Place cotton inside a crystal tube
+238.612662147,2026-03-12T09:11:37.257Z,a_valles,True,,2,Clean dishes with a towel and put them to dry
+178.309566246,2026-03-12T09:13:25.267Z,d_lopez,True,,1,Place cotton inside a crystal tube
+94.23652718,2026-03-12T09:17:00.389Z,l_aguilera,True,,4,Put crystal tubes on their holder and stuff them with colored sticks
+218.924954782,2026-03-12T09:17:04.727Z,a_valles,True,,2,Clean dishes with a towel and put them to dry
+173.085536379,2026-03-12T09:19:20.265Z,d_lopez,True,,1,Place cotton inside a crystal tube
+163.124268807,2026-03-12T09:22:30.526Z,a_valles,True,,2,Clean dishes with a towel and put them to dry
